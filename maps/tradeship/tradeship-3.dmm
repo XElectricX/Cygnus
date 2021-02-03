@@ -103,14 +103,14 @@
 	},
 /obj/machinery/light/small,
 /obj/structure/cable{
-	icon_state = "4-8";
 	d1 = 1;
-	d2 = 4
+	d2 = 4;
+	icon_state = "4-8"
 	},
 /obj/structure/cable{
-	icon_state = "1-8";
 	d1 = 1;
-	d2 = 4
+	d2 = 4;
+	icon_state = "1-8"
 	},
 /turf/simulated/floor/plating,
 /area/ship/trade/maintenance/solars)
@@ -159,9 +159,9 @@
 "aB" = (
 /obj/machinery/power/smes/buildable,
 /obj/structure/cable{
-	icon_state = "0-2";
 	d1 = 1;
-	d2 = 4
+	d2 = 4;
+	icon_state = "0-2"
 	},
 /turf/simulated/floor/plating,
 /area/ship/trade/maintenance/solars)
@@ -189,8 +189,8 @@
 /area/space)
 "aL" = (
 /obj/machinery/power/terminal{
-	icon_state = "term";
-	dir = 8
+	dir = 8;
+	icon_state = "term"
 	},
 /obj/structure/cable/yellow{
 	d2 = 4;
@@ -222,12 +222,12 @@
 "aS" = (
 /obj/structure/catwalk,
 /obj/structure/railing/mapped{
-	icon_state = "railing0-1";
-	dir = 8
+	dir = 8;
+	icon_state = "railing0-1"
 	},
 /obj/effect/floor_decal/industrial/warning{
-	icon_state = "warning";
-	dir = 8
+	dir = 8;
+	icon_state = "warning"
 	},
 /turf/simulated/open,
 /area/ship/trade/maintenance/solars)
@@ -320,12 +320,12 @@
 /area/ship/trade/command/bridge_upper)
 "gb" = (
 /obj/structure/railing/mapped{
-	icon_state = "railing0-1";
-	dir = 4
+	dir = 4;
+	icon_state = "railing0-1"
 	},
 /obj/effect/floor_decal/industrial/warning{
-	icon_state = "warning";
-	dir = 4
+	dir = 4;
+	icon_state = "warning"
 	},
 /obj/structure/cable/yellow{
 	d1 = 1;
@@ -337,9 +337,9 @@
 "gw" = (
 /obj/item/caution/cone,
 /obj/structure/cable{
-	icon_state = "1-8";
 	d1 = 1;
-	d2 = 4
+	d2 = 4;
+	icon_state = "1-8"
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
@@ -380,8 +380,8 @@
 	icon_state = "2-4"
 	},
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{
-	icon_state = "map-scrubbers";
-	dir = 1
+	dir = 1;
+	icon_state = "map-scrubbers"
 	},
 /obj/machinery/atmospherics/pipe/manifold/hidden/supply{
 	dir = 1
@@ -409,8 +409,8 @@
 /area/ship/trade/bridge_unused)
 "jy" = (
 /obj/machinery/constructable_frame/computerframe{
-	icon_state = "unwired";
-	dir = 4
+	dir = 4;
+	icon_state = "unwired"
 	},
 /obj/structure/cable/yellow{
 	d2 = 4;
@@ -446,8 +446,8 @@
 	},
 /obj/machinery/portable_atmospherics/canister/air/airlock,
 /obj/machinery/atmospherics/portables_connector{
-	icon_state = "map_connector";
-	dir = 4
+	dir = 4;
+	icon_state = "map_connector"
 	},
 /obj/effect/floor_decal/industrial/outline/yellow,
 /turf/simulated/floor/plating,
@@ -512,16 +512,16 @@
 	dir = 8
 	},
 /obj/structure/cable{
-	icon_state = "0-2";
 	d1 = 1;
-	d2 = 4
+	d2 = 4;
+	icon_state = "0-2"
 	},
 /turf/simulated/floor/plating,
 /area/ship/trade/bridge_unused)
 "oE" = (
 /obj/machinery/light/small{
-	icon_state = "bulb_map";
-	dir = 4
+	dir = 4;
+	icon_state = "bulb_map"
 	},
 /turf/simulated/floor/plating,
 /area/ship/trade/maintenance/solars)
@@ -551,15 +551,15 @@
 "pC" = (
 /obj/item/wrench,
 /obj/structure/handrail{
-	icon_state = "handrail";
-	dir = 4
+	dir = 4;
+	icon_state = "handrail"
 	},
 /turf/simulated/floor/reinforced/airless,
 /area/space)
 "qw" = (
 /obj/machinery/light_switch{
-	pixel_z = 0;
-	pixel_w = 24
+	pixel_w = 24;
+	pixel_z = 0
 	},
 /turf/simulated/floor/plating,
 /area/ship/trade/maintenance/solars)
@@ -578,12 +578,12 @@
 /area/ship/trade/command/bridge_upper)
 "sx" = (
 /obj/structure/railing/mapped{
-	icon_state = "railing0-1";
-	dir = 4
+	dir = 4;
+	icon_state = "railing0-1"
 	},
 /obj/effect/floor_decal/industrial/warning{
-	icon_state = "warning";
-	dir = 4
+	dir = 4;
+	icon_state = "warning"
 	},
 /obj/structure/cable/yellow{
 	d1 = 1;
@@ -636,8 +636,8 @@
 /area/ship/trade/bridge_unused)
 "vi" = (
 /obj/structure/handrail{
-	icon_state = "handrail";
-	dir = 8
+	dir = 8;
+	icon_state = "handrail"
 	},
 /turf/simulated/floor/reinforced/airless,
 /area/space)
@@ -654,9 +654,9 @@
 	dir = 1
 	},
 /obj/structure/cable{
+	d2 = 2;
 	icon_state = "0-2";
-	pixel_y = 1;
-	d2 = 2
+	pixel_y = 1
 	},
 /obj/machinery/firealarm{
 	dir = 4;
@@ -679,12 +679,12 @@
 "xe" = (
 /obj/structure/catwalk,
 /obj/effect/floor_decal/industrial/warning/corner{
-	icon_state = "warningcorner";
-	dir = 8
+	dir = 8;
+	icon_state = "warningcorner"
 	},
 /obj/machinery/light/small{
-	icon_state = "bulb_map";
-	dir = 4
+	dir = 4;
+	icon_state = "bulb_map"
 	},
 /turf/simulated/open,
 /area/ship/trade/maintenance/solars)
@@ -726,16 +726,16 @@
 	pixel_x = -25
 	},
 /obj/machinery/light/small{
-	icon_state = "bulb_map";
-	dir = 8
+	dir = 8;
+	icon_state = "bulb_map"
 	},
 /turf/simulated/floor/tiled/techfloor/grid,
 /area/ship/trade/maintenance/solars)
 "zh" = (
 /obj/structure/catwalk,
 /obj/effect/floor_decal/industrial/warning{
-	icon_state = "warning";
-	dir = 1
+	dir = 1;
+	icon_state = "warning"
 	},
 /turf/simulated/open,
 /area/ship/trade/maintenance/solars)
@@ -765,8 +765,8 @@
 /area/ship/trade/bridge_unused)
 "Al" = (
 /obj/effect/floor_decal/industrial/warning{
-	icon_state = "warning";
-	dir = 1
+	dir = 1;
+	icon_state = "warning"
 	},
 /obj/structure/cable/yellow{
 	d1 = 2;
@@ -834,9 +834,9 @@
 "DY" = (
 /obj/machinery/door/airlock/hatch/autoname/command,
 /obj/structure/cable{
-	icon_state = "4-8";
 	d1 = 1;
-	d2 = 4
+	d2 = 4;
+	icon_state = "4-8"
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
@@ -853,12 +853,12 @@
 /area/ship/trade/maintenance/solars)
 "Fe" = (
 /obj/structure/railing/mapped{
-	icon_state = "railing0-1";
-	dir = 1
+	dir = 1;
+	icon_state = "railing0-1"
 	},
 /obj/effect/floor_decal/industrial/warning{
-	icon_state = "warning";
-	dir = 1
+	dir = 1;
+	icon_state = "warning"
 	},
 /obj/structure/cable/yellow{
 	d1 = 4;
@@ -869,16 +869,16 @@
 /area/ship/trade/maintenance/solars)
 "FY" = (
 /obj/structure/railing/mapped{
-	icon_state = "railing0-1";
-	dir = 4
+	dir = 4;
+	icon_state = "railing0-1"
 	},
 /obj/effect/floor_decal/industrial/warning{
-	icon_state = "warning";
-	dir = 4
+	dir = 4;
+	icon_state = "warning"
 	},
 /obj/structure/handrail{
-	icon_state = "handrail";
-	dir = 4
+	dir = 4;
+	icon_state = "handrail"
 	},
 /obj/structure/cable/yellow{
 	d1 = 1;
@@ -895,9 +895,9 @@
 	id_tag = "solars_in"
 	},
 /obj/machinery/button/access/interior{
+	id_tag = "solars";
 	pixel_x = -24;
-	pixel_y = -1;
-	id_tag = "solars"
+	pixel_y = -1
 	},
 /turf/space,
 /area/ship/trade/maintenance/solars)
@@ -927,12 +927,12 @@
 "Ko" = (
 /obj/structure/catwalk,
 /obj/effect/floor_decal/industrial/warning/corner{
-	icon_state = "warningcorner";
-	dir = 1
+	dir = 1;
+	icon_state = "warningcorner"
 	},
 /obj/machinery/light/small{
-	icon_state = "bulb_map";
-	dir = 4
+	dir = 4;
+	icon_state = "bulb_map"
 	},
 /turf/simulated/open,
 /area/ship/trade/maintenance/solars)
@@ -971,8 +971,8 @@
 /area/ship/trade/bridge_unused)
 "Lf" = (
 /obj/effect/floor_decal/industrial/warning/corner{
-	icon_state = "warningcorner";
-	dir = 2
+	dir = 2;
+	icon_state = "warningcorner"
 	},
 /obj/structure/cable/yellow{
 	d1 = 2;
@@ -980,28 +980,28 @@
 	icon_state = "2-4"
 	},
 /obj/machinery/light/small{
-	icon_state = "bulb_map";
-	dir = 8
+	dir = 8;
+	icon_state = "bulb_map"
 	},
 /obj/structure/sign/warning/fall{
-	pixel_z = 0;
-	pixel_w = -32
+	pixel_w = -32;
+	pixel_z = 0
 	},
 /turf/simulated/floor/plating,
 /area/ship/trade/maintenance/solars)
 "Mk" = (
 /obj/structure/catwalk,
 /obj/structure/railing/mapped{
-	icon_state = "railing0-1";
-	dir = 8
+	dir = 8;
+	icon_state = "railing0-1"
 	},
 /obj/effect/floor_decal/industrial/warning{
-	icon_state = "warning";
-	dir = 8
+	dir = 8;
+	icon_state = "warning"
 	},
 /obj/structure/handrail{
-	icon_state = "handrail";
-	dir = 8
+	dir = 8;
+	icon_state = "handrail"
 	},
 /turf/simulated/open,
 /area/ship/trade/maintenance/solars)
@@ -1024,8 +1024,8 @@
 "Pg" = (
 /obj/item/chems/glass/paint/yellow,
 /obj/effect/floor_decal/industrial/warning/corner{
-	icon_state = "warningcorner";
-	dir = 4
+	dir = 4;
+	icon_state = "warningcorner"
 	},
 /obj/structure/cable/yellow{
 	d1 = 1;
@@ -1033,8 +1033,8 @@
 	icon_state = "1-4"
 	},
 /obj/machinery/light/small{
-	icon_state = "bulb_map";
-	dir = 8
+	dir = 8;
+	icon_state = "bulb_map"
 	},
 /turf/simulated/floor/plating,
 /area/ship/trade/maintenance/solars)
@@ -1119,8 +1119,8 @@
 	icon_state = "4-8"
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden{
-	icon_state = "intact";
-	dir = 4
+	dir = 4;
+	icon_state = "intact"
 	},
 /turf/simulated/floor/plating,
 /area/ship/trade/maintenance/solars)
@@ -1164,12 +1164,12 @@
 "UT" = (
 /obj/structure/catwalk,
 /obj/structure/railing/mapped{
-	icon_state = "railing0-1";
-	dir = 1
+	dir = 1;
+	icon_state = "railing0-1"
 	},
 /obj/effect/floor_decal/industrial/warning{
-	icon_state = "warning";
-	dir = 1
+	dir = 1;
+	icon_state = "warning"
 	},
 /turf/simulated/open,
 /area/ship/trade/maintenance/solars)
@@ -1230,8 +1230,8 @@
 /area/ship/trade/maintenance/solars)
 "Yq" = (
 /obj/structure/handrail{
-	icon_state = "handrail";
-	dir = 1
+	dir = 1;
+	icon_state = "handrail"
 	},
 /obj/structure/cable/yellow{
 	d1 = 4;
@@ -1255,8 +1255,8 @@
 /area/ship/trade/command/bridge_upper)
 "Zx" = (
 /obj/structure/handrail{
-	icon_state = "handrail";
-	dir = 4
+	dir = 4;
+	icon_state = "handrail"
 	},
 /turf/simulated/floor/reinforced/airless,
 /area/space)
@@ -1270,8 +1270,8 @@
 	name = "Communications APC"
 	},
 /obj/structure/cable{
-	icon_state = "0-2";
-	d2 = 2
+	d2 = 2;
+	icon_state = "0-2"
 	},
 /obj/machinery/light_switch{
 	pixel_x = 32

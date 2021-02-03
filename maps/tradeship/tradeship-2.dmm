@@ -6432,22 +6432,6 @@
 	},
 /turf/simulated/floor/tiled/techfloor,
 /area/ship/trade/maintenance/atmos)
-"Hc" = (
-/obj/item/radio/intercom{
-	pixel_y = 22
-	},
-/obj/machinery/alarm{
-	dir = 8;
-	icon_state = "alarm0";
-	pixel_x = 24
-	},
-/obj/item/bedsheet/medical,
-/obj/structure/curtain/open/privacy,
-/obj/structure/bed/padded,
-/obj/item/clothing/accessory/stethoscope,
-/obj/random/drinkbottle,
-/turf/simulated/floor/tiled/white,
-/area/ship/trade/crew/medbay)
 "Hp" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
@@ -7492,6 +7476,28 @@
 	},
 /turf/simulated/floor/tiled/techmaint,
 /area/ship/trade/crew/hallway/starboard)
+"TY" = (
+/obj/item/radio/intercom{
+	pixel_y = 22
+	},
+/obj/machinery/alarm{
+	dir = 8;
+	icon_state = "alarm0";
+	pixel_x = 24
+	},
+/obj/item/bedsheet/medical,
+/obj/structure/curtain/open/privacy,
+/obj/structure/bed/padded,
+/obj/item/clothing/accessory/stethoscope,
+/obj/random/drinkbottle,
+/obj/structure/hygiene/sink{
+	dir = 4;
+	icon_state = "sink";
+	pixel_x = 11;
+	pixel_y = 0
+	},
+/turf/simulated/floor/tiled/white,
+/area/ship/trade/crew/medbay)
 "Ub" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/item/storage/backpack/dufflebag,
@@ -11959,7 +11965,7 @@ dd
 dK
 dd
 KR
-Hc
+TY
 eM
 fe
 fo

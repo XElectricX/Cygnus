@@ -1,0 +1,36 @@
+/obj/item/server_tool
+	name = "sensor analyzer"
+	desc = "Generates a data disk when scanning a server's data drive."
+	icon = 'icons/obj/assemblies/electronic_tools.dmi'
+	icon_state = "analyzer"
+	obj_flags = OBJ_FLAG_CONDUCTIBLE
+	w_class = ITEM_SIZE_SMALL
+	material = /decl/material/solid/metal/aluminium
+	matter = list(
+		/decl/material/solid/metal/steel = MATTER_AMOUNT_REINFORCEMENT,
+		/decl/material/solid/glass = MATTER_AMOUNT_TRACE,
+		/decl/material/solid/plastic = MATTER_AMOUNT_TRACE)
+
+/obj/machinery/sensor_equipment
+	name = "high-power sensor"
+	desc = "Highly sensitive scanning equipment. Likely classified."
+
+/obj/machinery/sensor_equipment/hub
+	name = "sensor data hub"
+	desc = "Complete archive of all sensor logs gathered, including reports and associated data."
+
+/obj/machinery/sensor_equipment/processor
+	name = "sensor data processor"
+	desc = "Casing filled with CPUs for interpreting data collected and creating computational models."
+
+/obj/machinery/sensor_equipment/server
+	name = "sensor data server"
+	desc = "Contains the raw data that sensor equipment collect."
+
+/obj/machinery/sensor_equipment/router
+	name = "sensor wireless router"
+	desc = "Gathers data from off-site sensor arrays to nearby servers."
+
+/obj/machinery/sensor_equipment/transmitter
+	name = "deep space transmitter"
+	desc = "Facilitates secure communications across long distances. Appears irreparably damaged."

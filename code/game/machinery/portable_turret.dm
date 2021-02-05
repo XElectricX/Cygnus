@@ -77,6 +77,20 @@
 	lethal = 1
 	installation = /obj/item/gun/energy/laser
 
+/obj/machinery/porta_turret/rogue	//Beefy enemy turrets for away sites
+	maxhealth = 400	//Chonky
+	health = 400
+	shot_delay = 10
+	auto_repair = 1
+	ailock = 0
+	lethal = 1
+	check_access = 0
+	use_power = 0	//Work without functioning APCs
+	idle_power_usage = 0
+	active_power_usage = 0
+	reqpower = 0
+	installation = /obj/item/gun/energy/laser
+
 /obj/machinery/porta_turret/malf_upgrade(var/mob/living/silicon/ai/user)
 	..()
 	ailock = 0

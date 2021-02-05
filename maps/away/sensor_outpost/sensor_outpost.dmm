@@ -9,11 +9,6 @@
 /obj/machinery/cryopod/robot,
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/mechatronics)
-"ay" = (
-/obj/structure/table/glass,
-/obj/machinery/door/window,
-/turf/simulated/floor/tiled/dark,
-/area/sensor_outpost/server_room)
 "aC" = (
 /obj/structure/cable{
 	d1 = 2;
@@ -35,6 +30,10 @@
 	},
 /turf/simulated/floor/plating,
 /area/space)
+"aI" = (
+/obj/machinery/porta_turret/rogue,
+/turf/simulated/floor/tiled/techfloor,
+/area/sensor_outpost/sensor_room)
 "aM" = (
 /obj/machinery/power/apc{
 	dir = 1
@@ -200,6 +199,12 @@
 "dl" = (
 /turf/simulated/floor/greengrid,
 /area/sensor_outpost/server_room)
+"dm" = (
+/obj/structure/table/woodentable,
+/obj/item/flashlight/lamp/green,
+/obj/item/chems/food/drinks/glass2/coffeecup/metal,
+/turf/simulated/floor/wood,
+/area/sensor_outpost/command)
 "dn" = (
 /obj/structure/cable{
 	d1 = 1;
@@ -228,10 +233,6 @@
 /obj/machinery/door/airlock/external,
 /turf/simulated/floor/plating,
 /area/sensor_outpost/dock)
-"ec" = (
-/obj/structure/table/standard,
-/turf/simulated/floor/tiled/white,
-/area/sensor_outpost/kitchen)
 "ed" = (
 /obj/structure/table/rack,
 /obj/item/storage/box/flashbangs,
@@ -362,13 +363,6 @@
 	},
 /turf/simulated/floor/wood,
 /area/sensor_outpost/command)
-"hA" = (
-/obj/structure/table/marble,
-/obj/machinery/alarm{
-	dir = 1
-	},
-/turf/simulated/floor/tiled/white,
-/area/sensor_outpost/kitchen)
 "hB" = (
 /obj/structure/bed/chair/wood{
 	dir = 4
@@ -414,6 +408,10 @@
 	},
 /turf/simulated/floor/plating,
 /area/space)
+"iB" = (
+/obj/machinery/porta_turret/rogue,
+/turf/simulated/floor/tiled/dark,
+/area/sensor_outpost/server_room)
 "iY" = (
 /obj/structure/table/rack,
 /obj/item/storage/box/ammo/shotgunshells,
@@ -475,10 +473,6 @@
 /obj/machinery/recharge_station,
 /turf/simulated/floor/tiled/techfloor/grid,
 /area/sensor_outpost/engineering)
-"ki" = (
-/obj/machinery/porta_turret/stationary,
-/turf/simulated/floor/tiled/dark,
-/area/sensor_outpost/server_room)
 "kv" = (
 /obj/structure/closet/secure_closet/scientist,
 /obj/machinery/light{
@@ -486,17 +480,27 @@
 	},
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/mechatronics)
+"kz" = (
+/obj/structure/table/standard,
+/obj/machinery/light{
+	dir = 1
+	},
+/obj/item/trash/snack_bowl,
+/obj/item/chems/food/drinks/bottle/cola,
+/turf/simulated/floor/tiled/white,
+/area/sensor_outpost/kitchen)
 "kO" = (
 /turf/simulated/wall/r_wall,
 /area/sensor_outpost/habitation)
+"kT" = (
+/obj/structure/table/marble,
+/obj/item/chems/food/drinks/bottle/gin,
+/obj/item/chems/food/drinks/shaker,
+/turf/simulated/floor/tiled/white,
+/area/sensor_outpost/kitchen)
 "lc" = (
 /turf/space,
 /area/space)
-"lf" = (
-/obj/structure/table/woodentable,
-/obj/item/flashlight/lamp/green,
-/turf/simulated/floor/wood,
-/area/sensor_outpost/command)
 "lh" = (
 /obj/machinery/portable_atmospherics/canister/nitrogen,
 /turf/simulated/floor/tiled/techfloor/grid,
@@ -582,6 +586,10 @@
 /obj/machinery/recharger/wallcharger,
 /turf/simulated/floor/tiled/steel_ridged,
 /area/sensor_outpost/server_room)
+"nl" = (
+/obj/machinery/porta_turret/rogue,
+/turf/simulated/floor/tiled/dark,
+/area/sensor_outpost/dock)
 "nn" = (
 /obj/structure/closet/secure_closet/freezer/meat/bearcat,
 /turf/simulated/floor/tiled/freezer,
@@ -616,6 +624,13 @@
 "nU" = (
 /turf/simulated/wall,
 /area/sensor_outpost/habitation)
+"nV" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/obj/machinery/porta_turret/rogue,
+/turf/simulated/floor/tiled/dark,
+/area/sensor_outpost)
 "nX" = (
 /obj/structure/cable{
 	d1 = 1;
@@ -690,10 +705,6 @@
 /obj/structure/curtain/open/privacy,
 /turf/simulated/floor/tiled/white,
 /area/sensor_outpost/infirmary)
-"oI" = (
-/obj/machinery/porta_turret/stationary,
-/turf/simulated/floor/tiled/dark,
-/area/sensor_outpost/dock)
 "oK" = (
 /obj/machinery/light{
 	dir = 4
@@ -754,6 +765,15 @@
 "pp" = (
 /turf/simulated/wall/r_wall,
 /area/sensor_outpost)
+"pv" = (
+/obj/structure/table/standard,
+/obj/machinery/light{
+	dir = 1;
+	icon_state = "tube1"
+	},
+/obj/item/toy/desk/dippingbird,
+/turf/simulated/floor/tiled/dark,
+/area/sensor_outpost/server_room)
 "pB" = (
 /obj/machinery/alarm{
 	dir = 4
@@ -774,6 +794,11 @@
 	},
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/mechatronics)
+"pS" = (
+/obj/structure/table/marble,
+/obj/item/trash/cigbutt/cigarbutt,
+/turf/simulated/floor/tiled/white,
+/area/sensor_outpost/kitchen)
 "qj" = (
 /turf/simulated/wall/r_wall,
 /area/sensor_outpost/sensor_room)
@@ -821,13 +846,11 @@
 	},
 /turf/simulated/floor/plating,
 /area/space)
-"rj" = (
-/obj/structure/table/standard,
-/obj/machinery/light{
-	dir = 1
-	},
-/turf/simulated/floor/tiled/white,
-/area/sensor_outpost/kitchen)
+"rl" = (
+/obj/structure/bed/padded,
+/obj/structure/curtain/open/bed,
+/turf/simulated/floor/tiled/dark,
+/area/sensor_outpost/habitation)
 "rp" = (
 /obj/machinery/media/jukebox/old,
 /obj/machinery/light{
@@ -881,10 +904,6 @@
 	},
 /turf/simulated/floor/plating,
 /area/space)
-"sy" = (
-/obj/structure/table/marble,
-/turf/simulated/floor/tiled/white,
-/area/sensor_outpost/kitchen)
 "sG" = (
 /obj/structure/bed/padded,
 /obj/item/bedsheet/captain,
@@ -928,10 +947,6 @@
 	},
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/mechatronics)
-"ty" = (
-/obj/structure/bed/padded,
-/turf/simulated/floor/tiled/dark,
-/area/sensor_outpost/habitation)
 "uc" = (
 /obj/machinery/light{
 	dir = 4
@@ -976,6 +991,11 @@
 /obj/item/stack/material/glass/fifty,
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/mechatronics)
+"uW" = (
+/obj/structure/table/marble,
+/obj/item/trash/waffles,
+/turf/simulated/floor/tiled/white,
+/area/sensor_outpost/kitchen)
 "vb" = (
 /obj/machinery/portable_atmospherics/canister/oxygen,
 /obj/machinery/light,
@@ -1041,6 +1061,19 @@
 "wB" = (
 /obj/machinery/sensor_equipment/hub,
 /turf/simulated/floor/greengrid,
+/area/sensor_outpost/server_room)
+"xc" = (
+/obj/structure/table/standard,
+/obj/item/mech_equipment/mounted_system/rcd,
+/obj/machinery/recharger,
+/obj/item/kit/paint/powerloader/flames_red,
+/turf/simulated/floor/tiled/dark,
+/area/sensor_outpost/mechatronics)
+"xg" = (
+/obj/structure/table/glass,
+/obj/machinery/door/window,
+/obj/item/chems/food/drinks/glass2/coffeecup/metal,
+/turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/server_room)
 "xt" = (
 /obj/structure/cable{
@@ -1134,6 +1167,10 @@
 /obj/machinery/door/airlock/security,
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/server_room)
+"AF" = (
+/obj/machinery/porta_turret/rogue,
+/turf/simulated/floor/plating,
+/area/sensor_outpost/engineering)
 "AG" = (
 /obj/machinery/light{
 	dir = 4
@@ -1160,14 +1197,6 @@
 /obj/machinery/computer/design_console,
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/mechatronics)
-"AM" = (
-/obj/structure/table/standard,
-/obj/machinery/light{
-	dir = 1;
-	icon_state = "tube1"
-	},
-/turf/simulated/floor/tiled/dark,
-/area/sensor_outpost/server_room)
 "AO" = (
 /obj/structure/cable{
 	d1 = 1;
@@ -1258,10 +1287,6 @@
 	},
 /turf/simulated/floor/blackgrid,
 /area/sensor_outpost/sensor_room)
-"Co" = (
-/obj/machinery/porta_turret/stationary,
-/turf/simulated/floor/tiled/techfloor,
-/area/sensor_outpost/sensor_room)
 "CW" = (
 /obj/structure/table/rack,
 /obj/item/inflatable_dispenser,
@@ -1340,10 +1365,6 @@
 	},
 /turf/simulated/floor/tiled/white,
 /area/sensor_outpost/kitchen)
-"EQ" = (
-/obj/machinery/porta_turret/stationary,
-/turf/simulated/floor/tiled/dark,
-/area/sensor_outpost/habitation)
 "ER" = (
 /obj/machinery/floorlayer,
 /turf/simulated/floor/tiled/techfloor/grid,
@@ -1383,6 +1404,19 @@
 "FH" = (
 /turf/simulated/wall,
 /area/sensor_outpost/kitchen)
+"FJ" = (
+/obj/structure/table/standard,
+/obj/item/trash/mooncakewrap,
+/turf/simulated/floor/tiled/white,
+/area/sensor_outpost/kitchen)
+"Ga" = (
+/obj/structure/table/glass,
+/obj/machinery/door/window{
+	dir = 4
+	},
+/obj/item/toy/therapy_green,
+/turf/simulated/floor/tiled/dark,
+/area/sensor_outpost/dock)
 "Gk" = (
 /turf/simulated/floor/tiled/steel_ridged,
 /area/sensor_outpost/server_room)
@@ -1501,6 +1535,10 @@
 	},
 /turf/simulated/floor/tiled/techfloor/grid,
 /area/sensor_outpost/engineering)
+"Is" = (
+/obj/machinery/porta_turret/rogue,
+/turf/simulated/floor/tiled/dark,
+/area/sensor_outpost/habitation)
 "Iz" = (
 /obj/machinery/fabricator/pipe/disposal,
 /turf/simulated/floor/tiled/techfloor/grid,
@@ -1515,6 +1553,12 @@
 	},
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/dock)
+"IK" = (
+/obj/machinery/light,
+/obj/structure/table/standard,
+/obj/item/trash/tray,
+/turf/simulated/floor/tiled/white,
+/area/sensor_outpost/kitchen)
 "IL" = (
 /obj/structure/table/rack,
 /obj/item/stack/material/glass/fifty,
@@ -1588,10 +1632,6 @@
 	},
 /turf/simulated/floor/plating,
 /area/space)
-"Jn" = (
-/obj/machinery/porta_turret/stationary,
-/turf/simulated/floor/tiled/dark,
-/area/sensor_outpost)
 "Jx" = (
 /obj/structure/bed/chair/office/comfy/brown{
 	dir = 8
@@ -1644,13 +1684,6 @@
 /obj/machinery/recharger/wallcharger,
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/server_room)
-"Kz" = (
-/obj/structure/table/glass,
-/obj/machinery/door/window{
-	dir = 4
-	},
-/turf/simulated/floor/tiled/dark,
-/area/sensor_outpost/dock)
 "KA" = (
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/mechatronics)
@@ -1759,6 +1792,15 @@
 /area/sensor_outpost/engineering)
 "Nz" = (
 /obj/machinery/door/airlock/freezer,
+/turf/simulated/floor/tiled/white,
+/area/sensor_outpost/kitchen)
+"NB" = (
+/obj/structure/table/standard,
+/obj/machinery/light{
+	dir = 1
+	},
+/obj/item/trash/plate,
+/obj/item/trash/croutons,
 /turf/simulated/floor/tiled/white,
 /area/sensor_outpost/kitchen)
 "ND" = (
@@ -1880,10 +1922,6 @@
 	},
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/habitation)
-"PL" = (
-/obj/machinery/light,
-/turf/simulated/floor/tiled/white,
-/area/sensor_outpost/kitchen)
 "PO" = (
 /obj/machinery/recharge_station,
 /turf/simulated/floor/tiled/dark,
@@ -1925,6 +1963,14 @@
 /obj/machinery/alarm,
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/habitation)
+"QR" = (
+/obj/structure/table/marble,
+/obj/machinery/alarm{
+	dir = 1
+	},
+/obj/item/trash/tastybread,
+/turf/simulated/floor/tiled/white,
+/area/sensor_outpost/kitchen)
 "QT" = (
 /obj/structure/table/standard,
 /obj/item/disk/tech_disk,
@@ -1993,12 +2039,6 @@
 /obj/structure/dogbed,
 /turf/simulated/floor/wood,
 /area/sensor_outpost/command)
-"RT" = (
-/obj/structure/table/standard,
-/obj/item/mech_equipment/mounted_system/rcd,
-/obj/machinery/recharger,
-/turf/simulated/floor/tiled/dark,
-/area/sensor_outpost/mechatronics)
 "Se" = (
 /obj/machinery/power/terminal{
 	dir = 1
@@ -2020,13 +2060,6 @@
 	},
 /turf/simulated/floor/tiled/dark,
 /area/sensor_outpost/command)
-"SE" = (
-/obj/machinery/light{
-	dir = 8
-	},
-/obj/machinery/porta_turret/stationary,
-/turf/simulated/floor/tiled/dark,
-/area/sensor_outpost)
 "SQ" = (
 /obj/machinery/light{
 	dir = 8
@@ -2208,6 +2241,15 @@
 	},
 /turf/simulated/floor/tiled/white,
 /area/sensor_outpost/infirmary)
+"XB" = (
+/obj/structure/table/standard,
+/obj/machinery/light{
+	dir = 1
+	},
+/obj/item/trash/plate,
+/obj/item/trash/cigbutt,
+/turf/simulated/floor/tiled/white,
+/area/sensor_outpost/kitchen)
 "XM" = (
 /obj/machinery/power/smes/buildable/outpost_substation,
 /obj/structure/cable{
@@ -2316,6 +2358,10 @@
 	},
 /turf/simulated/floor/tiled/white,
 /area/sensor_outpost/kitchen)
+"YY" = (
+/obj/machinery/porta_turret/rogue,
+/turf/simulated/floor/tiled/dark,
+/area/sensor_outpost)
 "YZ" = (
 /obj/effect/wallframe_spawn/reinforced,
 /turf/simulated/floor/plating,
@@ -4982,11 +5028,11 @@ lc
 lc
 lc
 lc
-lc
+AF
 db
 Mk
 db
-lc
+AF
 lc
 lc
 lc
@@ -5305,11 +5351,11 @@ Db
 Zt
 WJ
 FH
-ty
+rl
 lD
 zF
 nU
-ty
+rl
 lD
 zF
 kO
@@ -5407,11 +5453,11 @@ xu
 xu
 xu
 FH
-ty
+rl
 Dy
 zF
 nU
-ty
+rl
 Dy
 zF
 kO
@@ -5509,11 +5555,11 @@ xu
 xu
 xu
 FH
-ty
+rl
 Dy
 zF
 nU
-ty
+rl
 Dy
 zF
 kO
@@ -5611,11 +5657,11 @@ mh
 Th
 xu
 FH
-ty
+rl
 Dy
 zF
 nU
-ty
+rl
 Dy
 zF
 kO
@@ -5909,10 +5955,10 @@ bX
 LX
 lh
 rK
-rj
+XB
 Ue
 SW
-sy
+pS
 aU
 MB
 or
@@ -6014,10 +6060,10 @@ rK
 GW
 Ue
 SW
-sy
+kT
 MB
 MB
-PL
+IK
 FH
 Qw
 Dy
@@ -6116,14 +6162,14 @@ rK
 hB
 Ue
 SW
-sy
+uW
 MB
 EI
 YA
 FH
 aM
 BE
-EQ
+Is
 nU
 nU
 PR
@@ -6215,10 +6261,10 @@ HK
 HK
 HK
 HK
-rj
+NB
 Ue
 SW
-hA
+QR
 FH
 FH
 FH
@@ -6227,7 +6273,7 @@ Ah
 vv
 Dy
 nU
-ty
+rl
 Dy
 zF
 kO
@@ -6305,9 +6351,9 @@ Ex
 ZT
 Ex
 Ow
-Jn
+YY
 qn
-SE
+nV
 HK
 Hp
 Rl
@@ -6329,7 +6375,7 @@ Dy
 vv
 bg
 nU
-ty
+rl
 Dy
 zF
 kO
@@ -6413,7 +6459,7 @@ Fj
 HK
 XY
 et
-lf
+dm
 HK
 BI
 nr
@@ -6431,7 +6477,7 @@ aR
 Po
 Dy
 nU
-ty
+rl
 Dy
 zF
 kO
@@ -6507,7 +6553,7 @@ Qn
 Us
 jw
 KA
-RT
+xc
 ba
 Fj
 qn
@@ -6521,8 +6567,8 @@ YP
 Jx
 MG
 HK
-rj
-ec
+kz
+FJ
 MB
 MB
 Fj
@@ -6533,7 +6579,7 @@ Dy
 Dy
 Dy
 nU
-ty
+rl
 In
 zF
 kO
@@ -6831,7 +6877,7 @@ hM
 hM
 hM
 hM
-Jn
+YY
 Fk
 Ml
 nU
@@ -7027,15 +7073,15 @@ cM
 Gk
 Ij
 AG
-ki
+iB
 pg
-ki
+iB
 AG
 Ij
 Ij
 Ij
 hM
-Jn
+YY
 Fk
 Fj
 nU
@@ -7223,7 +7269,7 @@ Fd
 Fd
 Fd
 Fd
-Jn
+YY
 qn
 Fj
 hM
@@ -7338,7 +7384,7 @@ mo
 uP
 vI
 hM
-AM
+pv
 Ij
 hM
 Fj
@@ -7544,7 +7590,7 @@ vI
 hM
 hi
 ND
-ay
+xg
 Fj
 Fk
 Fj
@@ -7749,7 +7795,7 @@ hM
 hM
 hM
 hM
-Jn
+Fj
 Fk
 Fj
 nU
@@ -7850,7 +7896,7 @@ Kb
 Fj
 Fj
 Fj
-Kb
+nV
 Fj
 Fk
 Fj
@@ -8039,9 +8085,9 @@ Dw
 Xg
 oH
 Fd
-Jn
+YY
 qn
-Jn
+YY
 Fj
 Fj
 Fj
@@ -8458,7 +8504,7 @@ lc
 lc
 Hw
 he
-Kz
+Ga
 NK
 he
 oX
@@ -8559,10 +8605,10 @@ lc
 lc
 lc
 Hw
-oI
+nl
 Tu
 Tu
-oI
+nl
 Tu
 Tu
 Hw
@@ -9467,9 +9513,9 @@ lc
 lc
 lc
 qj
-Co
+aI
 ZE
-Co
+aI
 qj
 lc
 lc

@@ -14,23 +14,35 @@
 /obj/machinery/sensor_equipment
 	name = "high-power sensor"
 	desc = "Highly sensitive scanning equipment. Likely classified."
+	icon = 'icons/obj/machines/ship_sensors.dmi'
+	icon_state = "sensors"
 
 /obj/machinery/sensor_equipment/hub
 	name = "sensor data hub"
 	desc = "Complete archive of all sensor logs gathered, including reports and associated data."
+	icon = 'icons/obj/machines/tcomms/hub.dmi'
+	icon_state = "hub"
 
 /obj/machinery/sensor_equipment/processor
 	name = "sensor data processor"
 	desc = "Casing filled with CPUs for interpreting data collected and creating computational models."
+	icon = 'icons/obj/machines/tcomms/processor.dmi'
+	icon_state = "processor"
 
 /obj/machinery/sensor_equipment/server
 	name = "sensor data server"
 	desc = "Contains the raw data that sensor equipment collect."
+	icon = 'icons/obj/machines/tcomms/comm_server.dmi'
+	icon_state = "comm_server"
 
 /obj/machinery/sensor_equipment/router
 	name = "sensor wireless router"
 	desc = "Gathers data from off-site sensor arrays to nearby servers."
+	icon = 'icons/obj/machines/tcomms/broadcaster.dmi'
+	icon_state = "broadcaster_send"
 
 /obj/machinery/sensor_equipment/transmitter
 	name = "deep space transmitter"
 	desc = "Facilitates secure communications across long distances. Appears irreparably damaged."
+	icon = 'icons/obj/machines/tcomms/receiver.dmi'
+	icon_state = "broadcast receiver"

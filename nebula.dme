@@ -1463,6 +1463,7 @@
 #include "code\modules\awaymissions\gateway.dm"
 #include "code\modules\awaymissions\loot.dm"
 #include "code\modules\awaymissions\pamphlet.dm"
+#include "code\modules\awaymissions\sensor_equipment.dm"
 #include "code\modules\awaymissions\trigger.dm"
 #include "code\modules\awaymissions\zlevel.dm"
 #include "code\modules\blob\blob.dm"

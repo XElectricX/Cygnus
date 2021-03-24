@@ -1,8 +1,12 @@
+"aa" = (/obj/machinery/mineral/input,/obj/machinery/conveyor{dir = 8; icon_state = "conveyor0"; id = "mining_internal"},/obj/structure/plasticflaps,/turf/simulated/floor/tiled,/area/space)
 "ab" = (/turf/simulated/floor/tiled,/area/space)
+"ac" = (/obj/machinery/r_n_d/destructive_analyzer,/obj/effect/floor_decal/corner/purple{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
 "ah" = (/obj/structure/table/rack,/obj/item/weapon/storage/firstaid/o2,/obj/item/weapon/storage/firstaid/o2,/obj/item/weapon/storage/firstaid/o2,/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "ai" = (/obj/structure/window/plastitanium/full,/obj/structure/grille,/obj/machinery/door/blast/regular,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/plating,/area/space)
 "aj" = (/obj/item/device/flashlight/lamp,/obj/structure/table/woodentable,/turf/simulated/floor/holofloor/wood,/area/space)
 "ak" = (/obj/machinery/vending/cigarette,/obj/machinery/light{icon_state = "tube1"},/turf/simulated/floor/holofloor/wood,/area/space)
+"at" = (/obj/machinery/power/apc{dir = 8; name = "west bump"; pixel_x = -28},/turf/simulated/floor/tiled,/area/space)
+"au" = (/obj/machinery/door/airlock/research{id_tag = "researchdoor"; name = "Research Division Access"; req_access = list(47)},/turf/simulated/floor/tiled,/area/space)
 "av" = (/obj/item/modular_computer/console/preset/command,/obj/effect/floor_decal/corner/blue{dir = 9},/obj/effect/floor_decal/corner/blue{dir = 5},/turf/simulated/floor/tiled/dark,/area/space)
 "aw" = (/obj/structure/bed/chair/office/light{dir = 4},/turf/simulated/floor/holofloor/wood,/area/space)
 "aB" = (/obj/machinery/light/small,/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
@@ -12,25 +16,32 @@
 "bd" = (/turf/simulated/floor/tiled/old_cargo,/area/space)
 "bi" = (/obj/structure/stairs/middle,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
 "br" = (/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = 28},/obj/structure/cable,/turf/simulated/floor/holofloor/wood,/area/space)
+"bx" = (/obj/structure/window/reinforced{dir = 1},/obj/effect/floor_decal/corner/paleblue/full{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "bF" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 1},/obj/machinery/alarm{dir = 8; pixel_x = 25},/turf/simulated/floor/holofloor/wood,/area/space)
 "bN" = (/obj/machinery/atmospherics/unary/vent_scrubber/on,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
 "bP" = (/obj/machinery/light/small{dir = 4},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "bT" = (/obj/machinery/light/small{dir = 8},/obj/structure/reagent_dispensers/fueltank,/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "bU" = (/obj/effect/floor_decal/corner/red/border{dir = 10},/turf/simulated/floor/tiled/techmaint,/area/space)
+"bZ" = (/obj/machinery/optable{name = "Robotics Operating Table"},/obj/effect/floor_decal/corner/paleblue{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
 "cb" = (/obj/structure/table/standard,/obj/machinery/atmospherics/unary/vent_pump/on{dir = 1},/obj/effect/floor_decal/corner/paleblue/border,/turf/simulated/floor/tiled/white,/area/space)
+"cj" = (/obj/machinery/disposal,/obj/effect/floor_decal/corner/purple/full{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "cq" = (/obj/machinery/firealarm{dir = 1; pixel_y = -24},/turf/simulated/floor/tiled,/area/space)
 "cr" = (/obj/structure/fireaxecabinet{pixel_y = 32},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled,/area/space)
 "ct" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "cv" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 6},/obj/machinery/vending/blood,/turf/simulated/floor/tiled/white,/area/space)
+"cz" = (/obj/structure/filingcabinet,/obj/machinery/alarm{pixel_y = 25},/turf/simulated/floor/tiled,/area/space)
 "cE" = (/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled,/area/space)
 "cH" = (/obj/effect/floor_decal/corner/paleblue{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
 "cM" = (/obj/machinery/light,/obj/effect/floor_decal/corner/red/border,/turf/simulated/floor/tiled/techmaint,/area/space)
 "cT" = (/obj/machinery/atmospherics/unary/vent_pump/on{dir = 8},/obj/machinery/firealarm{dir = 4; pixel_x = 26},/turf/simulated/floor/tiled/dark,/area/space)
 "da" = (/obj/effect/floor_decal/spline/plain,/obj/structure/bed/chair/comfy/black{dir = 4},/turf/simulated/floor/tiled/techmaint,/area/space)
 "df" = (/obj/machinery/disposal,/turf/simulated/floor/holofloor/wood,/area/space)
+"dh" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/turf/simulated/floor/plating,/area/space)
 "dj" = (/obj/effect/floor_decal/industrial/loading{dir = 8},/turf/simulated/floor/plating,/area/space)
 "do" = (/obj/machinery/computer/secure_data{dir = 1},/obj/effect/floor_decal/corner/blue{dir = 10},/turf/simulated/floor/tiled/dark,/area/space)
+"dr" = (/obj/machinery/power/apc{name = "south bump"; pixel_y = -28},/turf/simulated/floor/tiled,/area/space)
 "du" = (/obj/machinery/alarm{dir = 1; pixel_y = -25},/obj/machinery/disposal,/turf/simulated/floor/tiled,/area/space)
+"dD" = (/obj/structure/table/rack{dir = 8; layer = 2.9},/obj/machinery/alarm{dir = 8; pixel_x = 25},/turf/simulated/floor/tiled/techmaint,/area/space)
 "dY" = (/obj/machinery/door/airlock/glass_command{name = "Bridge Hallway"; req_access = list(19)},/obj/machinery/door/blast/regular,/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
 "dZ" = (/obj/structure/closet/secure_closet/personal,/turf/simulated/floor/holofloor/wood,/area/space)
 "ec" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/machinery/door/blast/regular,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/plating,/area/space)
@@ -40,8 +51,11 @@
 "et" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techmaint,/area/space)
 "ew" = (/obj/effect/floor_decal/corner/red/border,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techmaint,/area/space)
 "ex" = (/obj/machinery/light{dir = 4},/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 8},/turf/simulated/floor/tiled/steel_ridged,/area/space)
+"eG" = (/obj/effect/floor_decal/industrial/warning{dir = 1},/turf/simulated/floor/tiled,/area/space)
+"eK" = (/obj/structure/railing/grey,/turf/simulated/floor/tiled,/area/space)
 "eP" = (/obj/structure/bed/chair/office/light{dir = 1},/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
 "eS" = (/obj/structure/table/standard,/obj/effect/floor_decal/corner/red/bordercee{dir = 1},/turf/simulated/floor/tiled/techmaint,/area/space)
+"eW" = (/obj/machinery/door/blast/shutters{dir = 2; id = "qm_warehouse"; name = "Warehouse Shutters"},/turf/simulated/floor/tiled/techmaint,/area/space)
 "eY" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled,/area/space)
 "fc" = (/obj/structure/cable{icon_state = "2-4"},/obj/machinery/firealarm{dir = 2; pixel_y = 24},/turf/simulated/floor/tiled,/area/space)
 "fk" = (/obj/structure/table/glass,/obj/structure/window/reinforced{dir = 4},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
@@ -51,27 +65,38 @@
 "fP" = (/obj/machinery/door/airlock/maintenance,/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/firedoor/glass,/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "fQ" = (/turf/simulated/wall/r_wall,/area/space)
 "fS" = (/obj/machinery/photocopier,/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
+"fU" = (/obj/structure/noticeboard{pixel_y = 27},/turf/simulated/floor/tiled,/area/space)
+"fV" = (/obj/effect/floor_decal/corner/purple,/turf/simulated/floor/tiled/white,/area/space)
 "fW" = (/obj/structure/table/glass,/obj/effect/floor_decal/corner/blue{dir = 10},/turf/simulated/floor/tiled/dark,/area/space)
 "fY" = (/obj/machinery/door/airlock/glass,/turf/simulated/floor/tiled/techfloor,/area/space)
 "gg" = (/obj/structure/railing/grey,/obj/structure/railing/grey{dir = 1},/obj/effect/floor_decal/industrial/outline/yellow,/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled,/area/space)
+"gq" = (/obj/machinery/mineral/processing_unit,/obj/machinery/conveyor{dir = 8; icon_state = "conveyor0"; id = "mining_internal"},/turf/simulated/floor/tiled,/area/space)
 "gu" = (/obj/structure/table/woodentable,/obj/item/weapon/paper_bin{pixel_x = -3; pixel_y = 7},/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 4},/turf/simulated/floor/holofloor/wood,/area/space)
 "gv" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue/border{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
+"gx" = (/turf/simulated/floor/tiled/old_cargo/yellow,/area/space)
 "gB" = (/obj/effect/floor_decal/corner/red/border{dir = 6},/turf/simulated/floor/tiled/techmaint,/area/space)
 "gG" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 8},/obj/machinery/alarm{dir = 8; pixel_x = 25},/turf/simulated/floor/holofloor/wood,/area/space)
 "gV" = (/obj/structure/curtain/open/shower,/obj/machinery/shower{dir = 1},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/tiled/freezer,/area/space)
 "gW" = (/obj/structure/bed/chair/office/light,/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
 "he" = (/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled,/area/space)
+"hi" = (/obj/structure/table/rack{dir = 8; layer = 2.9},/obj/machinery/firealarm{dir = 4; pixel_x = 24},/turf/simulated/floor/tiled/techmaint,/area/space)
 "hl" = (/obj/structure/table/standard,/obj/effect/floor_decal/corner/paleblue/border,/obj/item/stack/medical/advanced/bruise_pack,/turf/simulated/floor/tiled/white,/area/space)
+"hq" = (/obj/machinery/computer/supplycomp{dir = 4},/turf/simulated/floor/tiled,/area/space)
 "ht" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 5},/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/tiled/white,/area/space)
+"hv" = (/obj/machinery/r_n_d/protolathe,/obj/effect/floor_decal/corner/purple{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "hC" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 9},/obj/machinery/atmospherics/unary/cryo_cell,/turf/simulated/floor/tiled/white,/area/space)
 "hH" = (/obj/structure/table/glass,/obj/item/weapon/paper_bin{pixel_x = -3; pixel_y = 7},/turf/simulated/floor/tiled,/area/space)
 "hI" = (/obj/machinery/vending/cigarette,/turf/simulated/floor/tiled/techmaint,/area/space)
 "hM" = (/obj/machinery/computer/rcon,/obj/effect/floor_decal/corner/blue{dir = 5},/turf/simulated/floor/tiled/dark,/area/space)
 "hN" = (/obj/structure/window/reinforced/full,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/old_cargo/blue,/area/space)
 "hS" = (/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled,/area/space)
+"hW" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/grille,/obj/machinery/door/firedoor/border_only,/turf/simulated/floor/plating,/area/space)
 "hX" = (/obj/machinery/deployable/barrier,/turf/simulated/floor/tiled/steel_ridged,/area/space)
+"ic" = (/obj/machinery/button/remote/blast_door{id = "qm_warehouse"; name = "Warehouse Door Control"; pixel_x = 26; pixel_y = 0; req_access = list(31)},/turf/simulated/floor/tiled,/area/space)
 "iu" = (/obj/machinery/door/firedoor/glass,/obj/effect/floor_decal/corner/paleblue{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
+"iB" = (/obj/machinery/photocopier/faxmachine{department = "Head of Security"},/obj/structure/table/standard,/turf/simulated/floor/tiled,/area/space)
 "iE" = (/obj/machinery/light{dir = 8},/obj/effect/floor_decal/corner/red/border{dir = 9},/turf/simulated/floor/tiled/techmaint,/area/space)
+"iJ" = (/obj/structure/ladder/updown,/turf/space,/area/space)
 "iR" = (/obj/machinery/light,/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
 "iT" = (/obj/machinery/door/airlock/maintenance,/obj/structure/cable{icon_state = "4-8"},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "iV" = (/obj/machinery/light{dir = 8},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
@@ -79,32 +104,44 @@
 "ja" = (/obj/machinery/computer/card,/obj/effect/floor_decal/corner/blue{dir = 6},/obj/effect/floor_decal/corner/blue{dir = 5},/turf/simulated/floor/tiled/dark,/area/space)
 "jk" = (/obj/machinery/door/airlock/glass,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/techfloor,/area/space)
 "jm" = (/obj/structure/table/glass,/obj/effect/floor_decal/corner/blue{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
+"jn" = (/obj/machinery/mineral/input,/obj/machinery/conveyor{dir = 6; icon_state = "conveyor0"; id = "mining_internal"},/turf/simulated/floor/tiled,/area/space)
 "jr" = (/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = 28},/obj/structure/cable{icon_state = "0-8"},/turf/simulated/floor/tiled,/area/space)
 "js" = (/obj/machinery/alarm{pixel_y = 25},/turf/simulated/floor/tiled,/area/space)
 "ju" = (/obj/machinery/door/airlock/engineering{name = "Medbay Substation"; req_one_access = list(11,24,5)},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/door/firedoor/glass,/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "jC" = (/obj/machinery/disposal,/turf/simulated/floor/tiled,/area/space)
 "jI" = (/obj/machinery/vending/snack,/turf/simulated/floor/tiled/white,/area/space)
 "jL" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/plating,/area/space)
+"kd" = (/obj/effect/floor_decal/industrial/warning{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"kf" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/grille,/obj/machinery/door/firedoor/border_only,/turf/simulated/floor/plating,/area/space)
 "kl" = (/obj/machinery/door/airlock/medical{name = "Operating Theatre 3"; req_access = list(45)},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
 "km" = (/obj/structure/table/glass,/obj/effect/floor_decal/corner/blue{dir = 9},/obj/effect/floor_decal/corner/blue{dir = 5},/turf/simulated/floor/tiled/dark,/area/space)
+"ko" = (/obj/item/extraction_pack,/obj/effect/forcefield,/turf/simulated/floor/plating,/area/space)
+"ks" = (/obj/structure/table/standard{name = "plastic table frame"},/obj/effect/floor_decal/corner/purple{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
 "ku" = (/obj/machinery/atmospherics/unary/vent_pump/on,/obj/structure/cable{icon_state = "1-2"},/obj/effect/floor_decal/corner/paleblue/border,/turf/simulated/floor/tiled/white,/area/space)
+"kw" = (/obj/structure/table/standard,/turf/simulated/floor/tiled,/area/space)
 "kx" = (/obj/machinery/photocopier/faxmachine{department = "Head of Security"},/obj/structure/table/woodentable,/turf/simulated/floor/tiled/dark,/area/space)
 "kB" = (/obj/machinery/power/breakerbox/activated{RCon_tag = "Medical Substation Bypass"},/obj/structure/cable,/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "kE" = (/obj/structure/railing/grey{dir = 1},/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/tiled,/area/space)
 "kP" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled,/area/space)
 "kQ" = (/obj/structure/table/rack,/obj/machinery/power/apc{name = "south bump"; pixel_y = -28},/obj/item/weapon/shield/riot,/obj/item/weapon/shield/riot,/obj/item/weapon/shield/riot,/obj/item/weapon/melee/baton/loaded,/obj/item/weapon/melee/baton/loaded,/obj/item/weapon/melee/baton/loaded,/obj/structure/cable,/turf/simulated/floor/tiled/steel_ridged,/area/space)
+"kS" = (/obj/machinery/door/airlock/multi_tile/glass,/turf/simulated/floor/tiled,/area/space)
 "la" = (/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled,/area/space)
+"le" = (/obj/machinery/power/apc{dir = 1; name = "north bump"; pixel_y = 28},/turf/simulated/floor/tiled,/area/space)
 "lj" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/holofloor/wood,/area/space)
 "lp" = (/obj/structure/table/glass,/obj/effect/floor_decal/corner/blue{dir = 10},/obj/effect/floor_decal/corner/blue{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
 "lz" = (/obj/structure/table/standard,/obj/item/weapon/reagent_containers/spray/cleaner,/obj/item/weapon/reagent_containers/spray/cleaner,/obj/item/weapon/reagent_containers/spray/cleaner,/obj/effect/floor_decal/corner/paleblue{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
 "lI" = (/obj/machinery/computer/secure_data,/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
+"lR" = (/obj/effect/floor_decal/corner/purple{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
 "lS" = (/obj/effect/floor_decal/corner/red/border,/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled/techmaint,/area/space)
 "lY" = (/obj/structure/bed/chair/office/light{dir = 4},/turf/simulated/floor/tiled,/area/space)
 "mf" = (/obj/machinery/atmospherics/unary/vent_pump/on,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
+"mn" = (/obj/machinery/door/firedoor/border_only,/obj/machinery/door/airlock/glass_centcom,/turf/simulated/floor/tiled,/area/space)
+"mE" = (/obj/machinery/door/airlock/maintenance{name = "Cargo Bay Warehouse Maintenance"; req_access = list(31)},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "mF" = (/obj/machinery/door/airlock/command,/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/holofloor/wood,/area/space)
 "mN" = (/obj/structure/flora/pottedplant/tall,/obj/machinery/atmospherics/unary/vent_pump/on{dir = 1},/turf/simulated/floor/holofloor/wood,/area/space)
 "mO" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/plating,/area/space)
 "na" = (/obj/machinery/light{dir = 4},/obj/effect/floor_decal/corner/red/border{dir = 4},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/techmaint,/area/space)
+"ne" = (/obj/structure/table/standard,/obj/machinery/light,/obj/structure/closet/secure_closet/medical_wall{name = "anesthetic closet"; pixel_x = -32; req_access = list(29)},/obj/item/weapon/tank/anesthetic,/obj/item/weapon/tank/anesthetic,/obj/item/weapon/tank/anesthetic,/obj/item/clothing/mask/breath/medical,/obj/item/clothing/mask/breath/medical,/obj/item/clothing/mask/breath/medical,/obj/item/weapon/storage/box/gloves,/obj/effect/floor_decal/corner/paleblue/full,/turf/simulated/floor/tiled/white,/area/space)
 "nh" = (/obj/structure/table/bench/wooden,/turf/simulated/floor/holofloor/wood,/area/space)
 "nj" = (/obj/machinery/bodyscanner{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
 "np" = (/obj/effect/floor_decal/industrial/warning{dir = 8},/turf/simulated/floor/tiled,/area/space)
@@ -112,6 +149,7 @@
 "nu" = (/obj/machinery/light,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
 "nQ" = (/obj/structure/reagent_dispensers/water_cooler/full,/turf/simulated/floor/tiled/white,/area/space)
 "nS" = (/obj/structure/cable{icon_state = "2-4"},/obj/machinery/light/small{dir = 1},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
+"nT" = (/obj/machinery/r_n_d/circuit_imprinter,/obj/effect/floor_decal/corner/purple{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "nU" = (/obj/machinery/door/airlock/medical{name = "Cloning-Cryogenics Laboratory"},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/white,/area/space)
 "oa" = (/obj/machinery/light{dir = 4},/obj/machinery/atmospherics/unary/vent_pump/on{dir = 8},/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
 "oe" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/steel_ridged,/area/space)
@@ -122,9 +160,12 @@
 "oo" = (/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled/techmaint,/area/space)
 "ou" = (/obj/item/clothing/head/cone,/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "ox" = (/obj/structure/table/glass,/obj/effect/floor_decal/corner/blue{dir = 10},/obj/effect/floor_decal/corner/blue{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
+"oD" = (/turf/simulated/floor/reinforced,/area/space)
 "oF" = (/obj/machinery/photocopier/faxmachine{department = "Head of Security"},/obj/structure/table/glass,/turf/simulated/floor/tiled,/area/space)
 "oG" = (/obj/structure/bed/chair/office/light{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
 "oH" = (/obj/structure/table/woodentable,/obj/item/weapon/material/ashtray/glass,/obj/item/weapon/storage/fancy/cigar,/turf/simulated/floor/holofloor/wood,/area/space)
+"oJ" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/grille,/obj/machinery/door/firedoor/border_only,/turf/simulated/floor/plating,/area/space)
+"oK" = (/obj/machinery/mineral/output,/obj/machinery/conveyor{dir = 8; icon_state = "conveyor0"; id = "mining_internal"},/obj/structure/plasticflaps,/turf/simulated/floor/tiled,/area/space)
 "oO" = (/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/tiled,/area/space)
 "oR" = (/turf/simulated/floor/tiled/dark,/area/space)
 "oU" = (/obj/machinery/power/apc{name = "south bump"; pixel_y = -28},/obj/structure/cable{icon_state = "0-4"},/turf/simulated/floor/holofloor/wood,/area/space)
@@ -134,8 +175,10 @@
 "pf" = (/obj/machinery/keycard_auth{pixel_x = 0; pixel_y = 24},/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled,/area/space)
 "pi" = (/obj/machinery/computer/ship/engines,/obj/effect/floor_decal/corner/blue{dir = 5},/obj/effect/floor_decal/corner/blue{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
 "pm" = (/obj/structure/bed,/obj/item/weapon/bedsheet/hop,/turf/simulated/floor/holofloor/wood,/area/space)
+"pq" = (/obj/effect/forcefield,/turf/simulated/floor/plating,/area/space)
 "pw" = (/obj/structure/mirror{pixel_x = 0; pixel_y = -28},/obj/structure/sink{pixel_x = 0; pixel_y = -11},/obj/item/weapon/bikehorn/rubberducky,/turf/simulated/floor/tiled/freezer,/area/space)
 "px" = (/obj/structure/table/woodentable,/turf/simulated/floor/holofloor/wood,/area/space)
+"pA" = (/obj/structure/bed/chair/office/dark{dir = 8},/turf/simulated/floor/tiled,/area/space)
 "pE" = (/obj/machinery/door/airlock/command{id_tag = "cmodoor"; name = "CMO's Office"; req_access = list(40)},/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/holofloor/wood,/area/space)
 "pG" = (/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
 "pH" = (/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 11; pixel_y = 0},/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
@@ -150,9 +193,11 @@
 "qu" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 1},/obj/machinery/light{dir = 8},/obj/machinery/firealarm{dir = 8; pixel_x = -24},/turf/simulated/floor/tiled,/area/space)
 "qz" = (/obj/machinery/smartfridge/secure/medbay{req_one_access = list(33,66)},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
 "qA" = (/obj/machinery/light,/turf/simulated/floor/holofloor/wood,/area/space)
+"qE" = (/obj/structure/window/plastitanium/full,/obj/structure/grille,/turf/simulated/floor/reinforced,/area/space)
 "qI" = (/obj/machinery/power/apc{name = "south bump"; pixel_y = -28},/obj/structure/cable,/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
 "qJ" = (/obj/structure/table/glass,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
 "qK" = (/obj/machinery/power/apc{dir = 1; name = "north bump"; pixel_y = 28},/obj/structure/cable{icon_state = "0-2"},/turf/simulated/floor/tiled,/area/space)
+"qM" = (/obj/effect/floor_decal/industrial/warning{dir = 6},/turf/simulated/floor/tiled,/area/space)
 "qO" = (/obj/machinery/door/window/brigdoor/southright,/obj/machinery/door/firedoor/glass,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/old_cargo,/area/space)
 "qQ" = (/turf/simulated/floor/tiled/steel_ridged,/area/space)
 "qY" = (/obj/machinery/computer/security{dir = 4},/turf/simulated/floor/tiled,/area/space)
@@ -169,12 +214,17 @@
 "rW" = (/obj/machinery/alarm{dir = 1; pixel_y = -25},/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
 "rZ" = (/obj/structure/table/standard,/obj/effect/floor_decal/corner/red/bordercee,/obj/item/weapon/storage/box/donut,/turf/simulated/floor/tiled/techmaint,/area/space)
 "se" = (/obj/machinery/clonepod,/obj/effect/floor_decal/corner/paleblue/border{dir = 6},/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
+"si" = (/obj/machinery/door/airlock/research{name = "Isolation Room 2"; req_access = list(65)},/turf/simulated/floor/reinforced,/area/space)
 "so" = (/obj/effect/floor_decal/spline/plain,/obj/structure/bed/chair/comfy/black{dir = 8},/turf/simulated/floor/tiled/techmaint,/area/space)
 "ss" = (/obj/effect/floor_decal/corner/paleblue/border/shifted{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
+"sw" = (/obj/effect/floor_decal/industrial/warning{dir = 10},/turf/simulated/floor/tiled,/area/space)
+"sH" = (/obj/effect/floor_decal/industrial/warning,/turf/simulated/floor/plating,/area/space)
+"sK" = (/obj/machinery/mineral/output,/obj/machinery/conveyor{dir = 5; icon_state = "conveyor0"; id = "mining_internal"},/turf/simulated/floor/tiled,/area/space)
 "sL" = (/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
 "sQ" = (/obj/structure/table/rack,/obj/item/weapon/storage/firstaid/toxin,/obj/item/weapon/storage/firstaid/toxin,/obj/item/weapon/storage/firstaid/toxin,/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "sR" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 8},/turf/simulated/floor/tiled/old_cargo,/area/space)
 "sW" = (/obj/machinery/door/airlock/glass_security{id_tag = null; layer = 2.8; name = "Security Checkpoint"; req_access = list(1)},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
+"tk" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/structure/table/reinforced,/obj/machinery/door/firedoor/border_only,/obj/item/weapon/paper_bin{pixel_x = -3; pixel_y = 7},/obj/item/weapon/clipboard,/obj/item/weapon/stamp/denied{pixel_x = 4; pixel_y = -2},/obj/item/weapon/stamp/cargo,/turf/simulated/floor/tiled,/area/space)
 "tp" = (/obj/effect/floor_decal/corner/paleblue/border,/obj/structure/table/standard,/obj/item/weapon/storage/box/masks{pixel_y = 0},/obj/item/weapon/storage/box/gloves{pixel_x = 4; pixel_y = 4},/obj/item/weapon/storage/box/syringes{pixel_x = 4; pixel_y = 4},/obj/item/weapon/storage/box/beakers,/obj/machinery/atmospherics/unary/vent_pump/on{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "ts" = (/obj/structure/bed/chair/office/light{dir = 1},/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/tiled,/area/space)
 "tu" = (/obj/machinery/power/apc{dir = 1; name = "north bump"; pixel_y = 28},/obj/structure/cable{d2 = 2; icon_state = "0-2"},/turf/simulated/floor/tiled,/area/space)
@@ -182,13 +232,17 @@
 "tB" = (/obj/effect/floor_decal/corner/paleblue{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "tC" = (/obj/machinery/power/breakerbox/activated{RCon_tag = "Command Substation Bypass"},/obj/structure/cable,/turf/simulated/floor/plating,/area/space)
 "tI" = (/obj/machinery/atmospherics/unary/vent_pump/on,/turf/simulated/floor/tiled/white,/area/space)
+"tU" = (/obj/machinery/door/airlock/research{name = "Research Division Auxiliary Access"; req_access = list(47)},/turf/simulated/floor/tiled/techmaint,/area/space)
 "ue" = (/obj/effect/floor_decal/corner/paleblue{dir = 6},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled/white,/area/space)
+"uf" = (/obj/machinery/mech_recharger,/mob/living/simple_mob/mechanical/mecha/ripley,/turf/simulated/floor/tiled,/area/space)
 "uh" = (/obj/structure/table/rack,/obj/item/weapon/storage/box/frags,/obj/item/weapon/storage/box/frags,/obj/item/weapon/storage/box/frags,/obj/machinery/firealarm{dir = 1; pixel_y = -24},/turf/simulated/floor/tiled/steel_ridged,/area/space)
 "uj" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 5},/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = 28},/obj/structure/cable,/turf/simulated/floor/tiled/white,/area/space)
 "uv" = (/obj/structure/cable{icon_state = "2-4"},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "uA" = (/obj/machinery/alarm{dir = 1; pixel_y = -25},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled,/area/space)
 "uC" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
+"uF" = (/obj/structure/stairs/spawner/south,/turf/simulated/floor/tiled,/area/space)
 "uL" = (/obj/machinery/alarm{dir = 8; pixel_x = 25},/obj/machinery/disposal,/turf/simulated/floor/tiled/dark,/area/space)
+"uM" = (/obj/effect/floor_decal/industrial/warning{dir = 9},/turf/simulated/floor/tiled/techmaint,/area/space)
 "uO" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/obj/structure/table/glass,/obj/item/device/mass_spectrometer/adv,/obj/item/weapon/reagent_containers/glass/beaker/large,/obj/item/weapon/reagent_containers/glass/beaker/large,/turf/simulated/floor/tiled/white,/area/space)
 "vk" = (/obj/machinery/disposal,/turf/simulated/floor/tiled/white,/area/space)
 "vl" = (/obj/structure/table/glass,/obj/item/weapon/storage/box/beakers,/obj/item/weapon/storage/box/syringes{pixel_x = 4; pixel_y = 4},/obj/item/weapon/reagent_containers/dropper,/obj/machinery/light{dir = 1},/obj/effect/floor_decal/corner/paleblue/border{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
@@ -197,6 +251,7 @@
 "vw" = (/turf/simulated/floor/tiled/techfloor,/area/space)
 "vz" = (/obj/structure/table/glass,/obj/structure/window/reinforced,/obj/machinery/light{dir = 8},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
 "vD" = (/obj/machinery/door/airlock/command{id_tag = "captaindoor"; name = "Colony Director's Office"; req_access = list(20)},/obj/machinery/door/firedoor/glass,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
+"vG" = (/obj/structure/plasticflaps,/obj/effect/floor_decal/industrial/hatch/yellow,/turf/simulated/floor/tiled,/area/space)
 "vK" = (/obj/structure/table/rack,/obj/random/projectile/sec,/obj/random/projectile/sec,/obj/random/projectile/sec,/turf/simulated/floor/tiled/steel_ridged,/area/space)
 "vM" = (/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = 28},/obj/structure/cable{icon_state = "0-8"},/turf/simulated/floor/tiled/dark,/area/space)
 "vN" = (/obj/machinery/computer/security{dir = 1},/obj/effect/floor_decal/corner/blue{dir = 10},/obj/effect/floor_decal/corner/blue{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
@@ -211,18 +266,25 @@
 "wx" = (/obj/structure/ladder,/turf/simulated/floor/plating,/area/space)
 "wA" = (/obj/structure/cable{icon_state = "1-4"},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
 "wC" = (/obj/structure/curtain/open/shower,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/toilet,/turf/simulated/floor/tiled/freezer,/area/space)
+"wE" = (/obj/structure/table/standard{name = "plastic table frame"},/obj/effect/floor_decal/corner/purple/full{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
+"wG" = (/obj/structure/catwalk,/turf/simulated/open,/area/space)
 "wH" = (/obj/structure/bed,/obj/item/weapon/bedsheet/captain,/turf/simulated/floor/holofloor/wood,/area/space)
 "wN" = (/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled,/area/space)
 "wQ" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
+"wX" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/turf/simulated/floor/plating,/area/space)
 "wZ" = (/obj/structure/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/structure/cable{icon_state = "2-8"},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
+"xe" = (/obj/effect/floor_decal/industrial/warning,/turf/simulated/floor/tiled,/area/space)
 "xi" = (/obj/machinery/disposal,/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
 "xr" = (/obj/structure/grille,/obj/structure/window/plastitanium/full,/obj/machinery/door/blast/regular,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/plating,/area/space)
 "xt" = (/obj/machinery/door/airlock/maintenance,/obj/structure/cable{icon_state = "1-2"},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
+"xx" = (/obj/structure/railing/grey{dir = 8},/turf/simulated/floor/tiled,/area/space)
 "xA" = (/obj/effect/floor_decal/corner/paleblue/border,/obj/structure/closet/secure_closet/medical3,/turf/simulated/floor/tiled/white,/area/space)
 "xB" = (/obj/machinery/light{dir = 1},/obj/machinery/disposal,/turf/simulated/floor/tiled,/area/space)
 "xE" = (/obj/machinery/firealarm{dir = 4; pixel_x = 26},/obj/effect/floor_decal/corner/paleblue{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
+"xG" = (/obj/machinery/autolathe,/obj/effect/floor_decal/corner/purple{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "xH" = (/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled/dark,/area/space)
 "xJ" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/plating,/area/space)
+"xM" = (/obj/machinery/door/airlock/glass_mining{name = "Quartermaster"; req_access = list(41)},/turf/simulated/floor/tiled,/area/space)
 "xN" = (/obj/structure/bed/chair/office/light,/turf/simulated/floor/tiled/dark,/area/space)
 "xT" = (/obj/effect/floor_decal/corner/paleblue{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "yb" = (/obj/structure/table/rack,/turf/simulated/floor/tiled/techmaint,/area/space)
@@ -230,12 +292,16 @@
 "yq" = (/obj/machinery/flasher/portable,/turf/simulated/floor/tiled/steel_ridged,/area/space)
 "yx" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/machinery/door/blast/regular,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/plating,/area/space)
 "yC" = (/obj/effect/floor_decal/corner/blue{dir = 5},/obj/machinery/computer/crew,/obj/effect/floor_decal/corner/blue{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
+"yG" = (/obj/machinery/firealarm{dir = 8; pixel_x = -24; pixel_y = 0},/turf/simulated/floor/tiled,/area/space)
 "yP" = (/obj/machinery/computer/card,/turf/simulated/floor/tiled,/area/space)
 "yS" = (/obj/machinery/light,/obj/machinery/disposal,/turf/simulated/floor/tiled,/area/space)
 "yY" = (/obj/machinery/computer/ship/sensors,/obj/effect/floor_decal/corner/blue{dir = 5},/turf/simulated/floor/tiled/dark,/area/space)
 "yZ" = (/turf/simulated/floor/tiled/techmaint,/area/space)
+"za" = (/obj/effect/floor_decal/corner/purple/full{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "zh" = (/obj/structure/railing/grey{dir = 4},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
 "zn" = (/obj/machinery/door/airlock/glass_command{name = "Bridge Hallway"; req_access = list(19)},/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
+"zo" = (/obj/machinery/door/airlock/mining{id_tag = "cargodoor"; name = "Mining Dock"; req_access = list(50)},/obj/machinery/door/firedoor/border_only,/turf/simulated/floor/tiled,/area/space)
+"zr" = (/obj/machinery/mineral/output,/obj/machinery/conveyor{dir = 1; icon_state = "conveyor0"; id = "mining_internal"},/turf/simulated/floor/tiled,/area/space)
 "zu" = (/obj/machinery/photocopier,/turf/simulated/floor/holofloor/wood,/area/space)
 "zw" = (/obj/machinery/door/airlock/security/armory,/obj/machinery/door/firedoor/glass,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/steel_ridged,/area/space)
 "zB" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 8},/obj/machinery/atmospherics/unary/cryo_cell,/turf/simulated/floor/tiled/white,/area/space)
@@ -247,8 +313,10 @@
 "zQ" = (/obj/structure/cable{icon_state = "1-4"},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "zT" = (/obj/structure/table/standard,/obj/item/roller,/obj/item/roller,/obj/item/roller,/turf/simulated/floor/tiled/white,/area/space)
 "zU" = (/obj/machinery/door/airlock/glass_command{name = "Bridge"; req_access = list(19)},/obj/machinery/door/blast/regular,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
+"zV" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/structure/grille,/obj/machinery/door/firedoor/border_only,/turf/simulated/floor/plating,/area/space)
 "Aa" = (/obj/machinery/door/airlock/glass_security{name = "Security Hallway"; req_access = list(1)},/obj/machinery/door/firedoor/glass,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
 "Ad" = (/obj/effect/floor_decal/corner/red/border,/turf/simulated/floor/tiled/techmaint,/area/space)
+"Ae" = (/obj/machinery/computer/rdconsole/robotics{dir = 4},/obj/effect/floor_decal/corner/purple{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "Ak" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
 "Al" = (/obj/machinery/photocopier,/turf/simulated/floor/tiled,/area/space)
 "Aq" = (/obj/machinery/alarm{dir = 8; pixel_x = 25},/turf/simulated/floor/tiled,/area/space)
@@ -265,15 +333,23 @@
 "By" = (/obj/structure/railing/grey,/obj/structure/railing/grey{dir = 1},/obj/effect/floor_decal/industrial/outline/yellow,/turf/simulated/floor/tiled,/area/space)
 "Bz" = (/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "2-8"},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
 "BE" = (/obj/structure/table/rack,/obj/random/energy/sec,/obj/random/energy/sec,/obj/random/energy/sec,/turf/simulated/floor/tiled/steel_ridged,/area/space)
+"BM" = (/obj/machinery/door/airlock/glass_centcom,/turf/simulated/floor/tiled,/area/space)
 "BO" = (/obj/structure/flora/pottedplant/large,/obj/machinery/light{dir = 1},/turf/simulated/floor/holofloor/wood,/area/space)
 "BS" = (/obj/machinery/power/terminal,/obj/structure/cable,/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/plating,/area/space)
 "Cb" = (/obj/machinery/door/firedoor/glass,/obj/effect/floor_decal/corner/paleblue{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
+"Ce" = (/obj/machinery/alarm{dir = 1; pixel_y = -25},/turf/simulated/floor/tiled,/area/space)
+"Cf" = (/obj/effect/floor_decal/industrial/warning{dir = 10},/turf/simulated/floor/tiled/techmaint,/area/space)
 "Cg" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/plating,/area/space)
+"Cj" = (/obj/structure/window/basic/full,/turf/simulated/floor/tiled/old_cargo/blue,/area/space)
+"Cp" = (/obj/machinery/mineral/input,/obj/machinery/conveyor{dir = 1; icon_state = "conveyor0"; id = "mining_internal"},/turf/simulated/floor/tiled,/area/space)
+"Ct" = (/obj/structure/table/standard,/obj/item/stack/material/steel{amount = 50},/obj/item/stack/material/glass{amount = 50; pixel_x = 3; pixel_y = 3},/obj/effect/floor_decal/corner/purple{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
 "Cz" = (/obj/machinery/atmospherics/unary/vent_scrubber/on,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/holofloor/wood,/area/space)
 "CE" = (/obj/structure/flora/pottedplant/orientaltree,/turf/simulated/floor/holofloor/wood,/area/space)
 "CO" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/holofloor/wood,/area/space)
 "CQ" = (/obj/machinery/firealarm{dir = 1; pixel_y = -24},/turf/simulated/floor/holofloor/wood,/area/space)
 "CR" = (/obj/structure/cable{icon_state = "1-2"},/obj/effect/floor_decal/corner/paleblue{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
+"CT" = (/obj/machinery/mineral/unloading_machine{icon_state = "unloader-corner"},/obj/machinery/conveyor{dir = 1; icon_state = "conveyor0"; id = "mining_internal"},/turf/simulated/floor/tiled,/area/space)
+"CU" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/structure/grille,/turf/simulated/floor/plating,/area/space)
 "CX" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 4},/obj/machinery/firealarm{dir = 2; pixel_y = 24},/turf/simulated/floor/tiled/techmaint,/area/space)
 "Da" = (/obj/machinery/power/apc{dir = 1; name = "north bump"; pixel_y = 28},/obj/structure/cable{icon_state = "0-2"},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "Df" = (/obj/machinery/computer/cloning{dir = 8},/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/obj/machinery/atmospherics/unary/vent_pump/on{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
@@ -291,10 +367,15 @@
 "Ea" = (/obj/structure/cable{icon_state = "16-0"},/obj/structure/lattice,/obj/machinery/door/firedoor/glass,/turf/simulated/open,/area/space)
 "Eb" = (/obj/machinery/light{dir = 8},/obj/item/extraction_pack,/obj/structure/railing/grey{dir = 1},/turf/simulated/floor/tiled,/area/space)
 "Ec" = (/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled/white,/area/space)
+"Ee" = (/obj/structure/bed/chair/office/light{dir = 4},/obj/effect/floor_decal/corner/purple{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
 "Ef" = (/obj/effect/floor_decal/corner/blue{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
 "Eq" = (/obj/machinery/computer/med_data,/obj/effect/floor_decal/corner/blue{dir = 5},/turf/simulated/floor/tiled/dark,/area/space)
 "Es" = (/obj/machinery/computer/ship/helm,/obj/effect/floor_decal/corner/blue{dir = 5},/turf/simulated/floor/tiled/dark,/area/space)
+"Ev" = (/obj/machinery/button/remote/blast_door{id = "qm_warehouse"; name = "Warehouse Door Control"; pixel_x = 26; pixel_y = 0; req_access = list(31)},/obj/structure/table/rack{dir = 8; layer = 2.9},/turf/simulated/floor/tiled/techmaint,/area/space)
+"Ew" = (/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"EG" = (/obj/machinery/conveyor_switch/oneway{id = "mining_internal"; name = "mining conveyor"},/turf/simulated/floor/tiled,/area/space)
 "EH" = (/obj/structure/filingcabinet,/obj/machinery/atmospherics/unary/vent_scrubber/on,/turf/simulated/floor/tiled,/area/space)
+"EO" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating,/area/space)
 "EQ" = (/obj/machinery/computer/station_alert/all,/obj/effect/floor_decal/corner/blue{dir = 5},/obj/effect/floor_decal/corner/blue{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
 "ES" = (/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
 "ET" = (/obj/machinery/sleeper{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
@@ -326,13 +407,18 @@
 "Hy" = (/obj/machinery/door/airlock/command{name = "Electrical Maintenance"; req_access = list(19)},/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/plating,/area/space)
 "HD" = (/obj/item/modular_computer/console/preset/command{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
 "HN" = (/obj/effect/floor_decal/corner/paleblue/border/shifted{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
+"HP" = (/obj/machinery/door/airlock/glass_research{name = "Robotics Lab"; req_access = list(29,47)},/turf/simulated/floor/tiled/white,/area/space)
+"HV" = (/obj/machinery/mech_recharger,/obj/effect/floor_decal/industrial/warning{dir = 10},/obj/effect/floor_decal/industrial/warning{dir = 1},/turf/simulated/floor/tiled/techmaint,/area/space)
 "HX" = (/obj/effect/floor_decal/corner/paleblue/border,/obj/structure/table/standard,/obj/item/device/defib_kit/loaded,/obj/item/device/defib_kit/loaded,/obj/item/device/defib_kit/loaded,/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
+"Ie" = (/obj/effect/floor_decal/industrial/warning{dir = 9},/turf/simulated/floor/tiled,/area/space)
 "If" = (/obj/structure/stairs/spawner/north,/turf/simulated/floor/tiled,/area/space)
 "Ii" = (/obj/structure/table/rack,/obj/item/weapon/storage/firstaid/fire,/obj/item/weapon/storage/firstaid/fire,/obj/item/weapon/storage/firstaid/fire,/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "Im" = (/obj/machinery/atmospherics/unary/vent_scrubber/on,/obj/machinery/power/apc{dir = 1; name = "north bump"; pixel_y = 28},/obj/structure/cable{icon_state = "0-2"},/turf/simulated/floor/tiled/white,/area/space)
 "In" = (/obj/structure/reagent_dispensers/fueltank,/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "Ip" = (/obj/machinery/vending/boozeomat{dir = 8},/turf/simulated/floor/holofloor/wood,/area/space)
 "It" = (/obj/structure/bed/chair/office/light{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
+"Iv" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/turf/simulated/floor/plating,/area/space)
+"IB" = (/obj/structure/table/rack{dir = 8; layer = 2.9},/turf/simulated/floor/tiled/techmaint,/area/space)
 "IC" = (/obj/structure/mirror{pixel_x = -28},/obj/structure/sink{dir = 8; icon_state = "sink"; pixel_x = -12; pixel_y = 2},/obj/item/weapon/bikehorn/rubberducky,/turf/simulated/floor/tiled/freezer,/area/space)
 "ID" = (/obj/machinery/power/apc{dir = 1; pixel_y = 25},/obj/structure/cable{icon_state = "0-2"},/turf/simulated/floor/holofloor/wood,/area/space)
 "IM" = (/obj/machinery/computer/operating,/obj/effect/floor_decal/corner/paleblue/border{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
@@ -342,6 +428,7 @@
 "Jj" = (/obj/structure/table/rack,/obj/machinery/alarm{dir = 1; pixel_y = -25},/obj/item/clothing/gloves/arm_guard/combat,/obj/item/clothing/gloves/arm_guard/combat,/obj/item/clothing/gloves/arm_guard/combat,/obj/item/clothing/suit/armor/combat,/obj/item/clothing/suit/armor/combat,/obj/item/clothing/suit/armor/combat,/obj/item/clothing/shoes/leg_guard/combat,/obj/item/clothing/shoes/leg_guard/combat,/obj/item/clothing/shoes/leg_guard/combat,/obj/item/clothing/head/helmet/combat,/obj/item/clothing/head/helmet/combat,/obj/item/clothing/head/helmet/combat,/turf/simulated/floor/tiled/steel_ridged,/area/space)
 "Jl" = (/obj/structure/flora/pottedplant/shoot,/obj/machinery/light,/turf/simulated/floor/tiled/dark,/area/space)
 "Jp" = (/obj/structure/table/rack,/obj/machinery/light{dir = 8},/obj/item/weapon/gun/energy/ionrifle{pixel_y = -3},/obj/item/weapon/gun/energy/ionrifle{pixel_y = -3},/obj/item/weapon/gun/energy/ionrifle{pixel_y = -3},/turf/simulated/floor/tiled/steel_ridged,/area/space)
+"Jr" = (/obj/effect/floor_decal/corner/purple/full,/turf/simulated/floor/tiled/white,/area/space)
 "Jy" = (/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
 "JA" = (/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = 28},/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/obj/structure/cable{icon_state = "0-8"},/obj/structure/bed/chair/wheelchair,/turf/simulated/floor/tiled/white,/area/space)
 "JC" = (/obj/machinery/light,/turf/simulated/floor/tiled,/area/space)
@@ -349,21 +436,31 @@
 "JG" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/machinery/door/blast/regular,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/plating,/area/space)
 "JQ" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "Ka" = (/obj/structure/curtain/open/shower,/obj/machinery/shower{dir = 4},/obj/structure/window/reinforced,/turf/simulated/floor/tiled/freezer,/area/space)
+"Kd" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/grille,/turf/simulated/floor/plating,/area/space)
+"Kg" = (/obj/effect/floor_decal/corner/purple/full{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
 "Ki" = (/obj/machinery/door/airlock/glass_medical{name = "Chemistry Laboratory"; req_access = list(33)},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/white,/area/space)
 "Kk" = (/obj/machinery/atmospherics/pipe/manifold/visible{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "Ko" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/holofloor/wood,/area/space)
 "Kr" = (/obj/structure/closet/secure_closet/medical3,/obj/effect/floor_decal/corner/paleblue/border{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
+"Ku" = (/obj/structure/railing/grey{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"Kz" = (/obj/structure/table/standard,/obj/machinery/recharger{pixel_y = 0},/obj/effect/floor_decal/corner/purple/full{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "KA" = (/obj/structure/table/reinforced,/obj/machinery/door/window/brigdoor/eastleft,/obj/machinery/door/window/brigdoor/westright,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
 "KE" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 8},/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/firealarm{dir = 1; pixel_y = -24},/turf/simulated/floor/holofloor/wood,/area/space)
 "KK" = (/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled,/area/space)
 "KL" = (/obj/structure/bed/chair/sofa/brown/left{dir = 1},/obj/machinery/light,/turf/simulated/floor/holofloor/wood,/area/space)
+"KN" = (/obj/structure/bed/chair,/turf/simulated/floor/tiled,/area/space)
 "KO" = (/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/holofloor/wood,/area/space)
 "Lh" = (/obj/structure/flora/pottedplant/minitree,/turf/simulated/floor/holofloor/wood,/area/space)
+"Lk" = (/obj/machinery/mech_recharger,/obj/effect/floor_decal/industrial/warning{dir = 6},/obj/effect/floor_decal/industrial/warning{dir = 1},/turf/simulated/floor/tiled/techmaint,/area/space)
+"Ll" = (/obj/machinery/hologram/holopad,/turf/simulated/floor/tiled/white,/area/space)
 "LC" = (/obj/structure/cable{icon_state = "4-8"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
 "LE" = (/obj/machinery/vending/medical,/turf/simulated/floor/tiled/white,/area/space)
 "LF" = (/obj/machinery/disposal,/turf/simulated/floor/tiled/techmaint,/area/space)
+"LG" = (/obj/structure/table/standard,/obj/item/weapon/storage/belt/utility,/obj/effect/floor_decal/corner/purple{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
 "LI" = (/obj/machinery/body_scanconsole,/turf/simulated/floor/tiled/white,/area/space)
+"LJ" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/grille,/obj/machinery/door/firedoor/border_only,/turf/simulated/floor/plating,/area/space)
 "LM" = (/obj/machinery/door/airlock/multi_tile/glass,/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
+"Mh" = (/obj/structure/filingcabinet/filingcabinet,/turf/simulated/floor/tiled,/area/space)
 "Mj" = (/obj/machinery/atmospherics/unary/vent_pump/on{dir = 8},/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled/old_cargo,/area/space)
 "Mn" = (/obj/machinery/cryopod{dir = 4},/turf/simulated/wall/r_wall,/area/space)
 "Mv" = (/obj/structure/table/woodentable,/obj/machinery/light,/turf/simulated/floor/holofloor/wood,/area/space)
@@ -371,8 +468,14 @@
 "MI" = (/obj/effect/floor_decal/corner/blue{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
 "ML" = (/obj/machinery/power/apc{dir = 8; name = "west bump"; pixel_x = -28},/obj/structure/cable{icon_state = "0-4"},/obj/effect/floor_decal/corner/paleblue/border{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "MO" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
+"MR" = (/obj/effect/floor_decal/corner/purple{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
+"Ng" = (/mob/living/bot/mulebot,/obj/machinery/navbeacon/delivery/south{location = "QM #3"},/obj/effect/floor_decal/industrial/hatch/yellow,/turf/simulated/floor/tiled,/area/space)
+"Nm" = (/obj/machinery/firealarm{dir = 4; pixel_x = 24},/turf/simulated/floor/tiled,/area/space)
+"Np" = (/obj/machinery/computer/rdconsole/core{dir = 8},/obj/effect/floor_decal/corner/purple/full{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "Nr" = (/obj/machinery/atmospherics/unary/vent_scrubber/on,/obj/structure/cable{icon_state = "2-8"},/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "Nx" = (/obj/item/modular_computer/console/preset/command,/turf/simulated/floor/tiled,/area/space)
+"Ny" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/grille,/obj/machinery/door/firedoor/border_only,/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/plating,/area/space)
+"Nz" = (/obj/machinery/door/airlock/mining{id_tag = "cargodoor"; name = "Mining Dock"; req_access = list(50)},/turf/simulated/floor/tiled,/area/space)
 "NO" = (/obj/item/modular_computer/console/preset/command,/obj/effect/floor_decal/corner/blue{dir = 5},/turf/simulated/floor/tiled/dark,/area/space)
 "NT" = (/obj/machinery/light{dir = 1},/obj/effect/floor_decal/corner/red/border{dir = 6},/turf/simulated/floor/tiled/techmaint,/area/space)
 "NV" = (/obj/structure/stairs/spawner/east,/turf/simulated/floor/tiled,/area/space)
@@ -382,6 +485,7 @@
 "Oj" = (/obj/structure/cable{icon_state = "4-8"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
 "Ok" = (/obj/effect/floor_decal/industrial/loading,/turf/simulated/floor/tiled,/area/space)
 "Ol" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/white,/area/space)
+"Om" = (/obj/structure/bed/chair/office/dark{dir = 1},/turf/simulated/floor/tiled,/area/space)
 "Oq" = (/obj/structure/table/standard,/obj/effect/floor_decal/corner/red/bordercee,/turf/simulated/floor/tiled/techmaint,/area/space)
 "Ox" = (/obj/effect/floor_decal/corner/red/border{dir = 5},/turf/simulated/floor/tiled/techmaint,/area/space)
 "Oz" = (/obj/item/extraction_pack,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
@@ -394,30 +498,44 @@
 "Pd" = (/obj/machinery/vending/coffee{dir = 1},/turf/simulated/floor/tiled,/area/space)
 "Pt" = (/obj/structure/railing/grey{dir = 8},/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled,/area/space)
 "PL" = (/obj/machinery/portable_atmospherics/canister/oxygen,/obj/machinery/atmospherics/portables_connector{dir = 4},/obj/effect/floor_decal/industrial/hatch/yellow,/obj/effect/floor_decal/corner/paleblue/border{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
+"PT" = (/obj/structure/table/rack{dir = 8; layer = 2.9},/obj/item/weapon/hand_labeler,/obj/item/weapon/tape_roll,/obj/item/device/retail_scanner/civilian{dir = 1; icon_state = "retail_idle"},/turf/simulated/floor/tiled,/area/space)
 "PX" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-4"},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "Qe" = (/obj/machinery/light{dir = 1},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
+"Ql" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating,/area/space)
 "Qp" = (/obj/structure/closet/secure_closet/medical3,/obj/effect/floor_decal/corner/paleblue/border,/turf/simulated/floor/tiled/white,/area/space)
 "Qu" = (/obj/structure/stairs/spawner/west,/turf/simulated/floor/tiled,/area/space)
+"Qw" = (/obj/machinery/door/firedoor/border_only,/turf/simulated/floor/tiled,/area/space)
+"Qy" = (/obj/structure/cable{icon_state = "1-4"},/obj/structure/railing/grey,/turf/simulated/floor/tiled,/area/space)
+"QA" = (/obj/effect/floor_decal/industrial/loading{dir = 1},/turf/simulated/floor/tiled/techmaint,/area/space)
 "QC" = (/obj/machinery/light,/obj/structure/railing/grey{dir = 1},/obj/structure/railing/grey,/obj/effect/floor_decal/industrial/outline/yellow,/turf/simulated/floor/tiled,/area/space)
 "QF" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
 "QI" = (/obj/structure/closet/secure_closet/medical2,/obj/effect/floor_decal/corner/paleblue/border{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "QP" = (/obj/machinery/optable,/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "QV" = (/obj/structure/table/woodentable,/obj/item/device/flashlight/lamp,/turf/simulated/floor/tiled/dark,/area/space)
+"QW" = (/obj/effect/floor_decal/corner/purple/full{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "Rb" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/plating,/area/space)
 "Rh" = (/obj/item/extraction_pack,/obj/effect/floor_decal/plaque,/obj/structure/cable{icon_state = "2-4"},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
+"Rs" = (/obj/effect/floor_decal/corner/purple{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
 "Rv" = (/obj/effect/floor_decal/industrial/loading{dir = 1},/turf/simulated/floor/tiled,/area/space)
+"Rz" = (/obj/structure/plasticflaps,/obj/effect/floor_decal/industrial/hatch/yellow,/turf/simulated/floor/tiled/techmaint,/area/space)
 "RA" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/obj/machinery/atmospherics/pipe/simple/visible{dir = 10; icon_state = "intact"},/obj/machinery/alarm{pixel_y = 25},/turf/simulated/floor/tiled/white,/area/space)
+"RC" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/machinery/door/firedoor/border_only,/turf/simulated/floor/plating,/area/space)
 "RK" = (/obj/machinery/alarm{dir = 4; pixel_x = -25},/turf/simulated/floor/tiled,/area/space)
+"RM" = (/obj/machinery/door/airlock/research{name = "Isolation Room 1"; req_access = list(65)},/turf/simulated/floor/reinforced,/area/space)
 "RO" = (/obj/machinery/light/small,/obj/structure/table/rack,/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
+"RU" = (/obj/structure/table/reinforced,/obj/machinery/door/window/northleft{dir = 8; name = "Research and Development Desk"; req_access = list(7)},/obj/item/weapon/deskbell,/turf/simulated/floor/tiled,/area/space)
 "RY" = (/obj/machinery/light/small{dir = 8},/obj/item/clothing/head/cone,/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "Sa" = (/obj/structure/flora/pottedplant{icon_state = "plant-10"},/turf/simulated/floor/holofloor/wood,/area/space)
 "Sb" = (/obj/effect/floor_decal/spline/plain{dir = 6},/obj/machinery/vending/snack{dir = 1},/turf/simulated/floor/tiled/techmaint,/area/space)
 "Sg" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/old_cargo,/area/space)
 "Sj" = (/obj/effect/floor_decal/corner/paleblue{dir = 6},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/white,/area/space)
+"Sk" = (/obj/effect/floor_decal/corner/paleblue/full{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "Sn" = (/obj/structure/displaycase,/turf/simulated/floor/holofloor/wood,/area/space)
 "Su" = (/obj/structure/bed/chair/comfy/black,/turf/simulated/floor/tiled/techmaint,/area/space)
 "Sv" = (/obj/structure/table/steel,/obj/machinery/cell_charger,/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
+"Sw" = (/obj/effect/floor_decal/corner/purple{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "SB" = (/obj/item/extraction_pack,/turf/simulated/wall/r_wall,/area/space)
+"SD" = (/obj/machinery/mecha_part_fabricator,/obj/effect/floor_decal/corner/purple{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "SJ" = (/obj/machinery/power/apc{dir = 8; name = "west bump"; pixel_x = -28},/obj/structure/cable{icon_state = "0-4"},/turf/simulated/floor/tiled,/area/space)
 "SQ" = (/obj/machinery/atmospherics/unary/vent_pump/on{dir = 1},/turf/simulated/floor/holofloor/wood,/area/space)
 "SR" = (/obj/effect/floor_decal/corner/red/border,/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled/techmaint,/area/space)
@@ -427,13 +545,14 @@
 "Tj" = (/obj/machinery/atmospherics/unary/vent_pump/on{dir = 1},/obj/machinery/light{dir = 4},/turf/simulated/floor/holofloor/wood,/area/space)
 "Tk" = (/obj/structure/railing/grey{dir = 1},/turf/simulated/floor/tiled,/area/space)
 "Tl" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled,/area/space)
-"Tn" = (/obj/structure/cable{icon_state = "2-8"},/obj/structure/railing/grey{dir = 1},/turf/simulated/floor/tiled,/area/space)
 "Tp" = (/obj/effect/floor_decal/corner/red/border{dir = 9},/turf/simulated/floor/tiled/techmaint,/area/space)
 "Tq" = (/obj/effect/floor_decal/corner/red/border{dir = 5},/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = 28},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled/techmaint,/area/space)
 "Tt" = (/obj/structure/window/basic/full,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/holofloor/wood,/area/space)
+"Tv" = (/obj/structure/closet/secure_closet/quartermaster,/turf/simulated/floor/tiled,/area/space)
 "Tx" = (/obj/machinery/shower{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/machinery/door/window/northleft{name = "Shower"; req_access = list()},/obj/structure/curtain/open/shower/medical,/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/tiled/freezer,/area/space)
 "TA" = (/obj/machinery/firealarm{dir = 2; pixel_y = 24},/turf/simulated/floor/tiled,/area/space)
 "TD" = (/obj/structure/bed/chair/office/light,/turf/simulated/floor/tiled,/area/space)
+"TF" = (/obj/effect/floor_decal/corner/purple{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
 "TK" = (/obj/machinery/atmospherics/unary/vent_pump/on,/turf/simulated/floor/holofloor/wood,/area/space)
 "TL" = (/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
 "TM" = (/obj/structure/table/rack,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
@@ -441,17 +560,24 @@
 "TV" = (/obj/machinery/sleep_console,/turf/simulated/floor/tiled/white,/area/space)
 "TX" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 8},/obj/machinery/atmospherics/unary/freezer{dir = 4; icon_state = "freezer"},/turf/simulated/floor/tiled/white,/area/space)
 "Ud" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 8},/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
+"Uk" = (/obj/effect/floor_decal/industrial/warning{dir = 1},/turf/simulated/floor/tiled/techfloor/grid,/area/space)
 "Um" = (/obj/machinery/vending/coffee{dir = 1},/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
+"Us" = (/obj/machinery/door/window/westleft{dir = 2; name = "Cargo Desk"; req_access = list(50)},/obj/structure/table/reinforced,/obj/machinery/door/firedoor/border_only,/obj/item/weapon/deskbell,/turf/simulated/floor/tiled,/area/space)
 "Ut" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/machinery/door/blast/regular,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/plating,/area/space)
+"Uu" = (/obj/machinery/computer/supplycomp/control{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"UE" = (/obj/machinery/mecha_part_fabricator/pros,/obj/effect/floor_decal/corner/purple/full,/turf/simulated/floor/tiled/white,/area/space)
 "UF" = (/obj/machinery/disposal,/obj/machinery/alarm{pixel_y = 25},/turf/simulated/floor/tiled/white,/area/space)
+"UH" = (/obj/effect/floor_decal/industrial/warning{dir = 5},/turf/simulated/floor/tiled,/area/space)
 "UI" = (/obj/machinery/chemical_dispenser/full,/obj/structure/table/standard,/obj/machinery/light,/obj/machinery/firealarm{dir = 8; pixel_x = -24},/obj/effect/floor_decal/corner/paleblue/border{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
 "UJ" = (/obj/machinery/light,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
 "UK" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/obj/machinery/disposal,/turf/simulated/floor/tiled/white,/area/space)
 "UL" = (/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/holofloor/wood,/area/space)
+"UM" = (/obj/machinery/mineral/stacking_machine,/obj/machinery/conveyor{dir = 1; icon_state = "conveyor0"; id = "mining_internal"},/turf/simulated/floor/tiled,/area/space)
 "UP" = (/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled/white,/area/space)
 "US" = (/obj/structure/sink{dir = 4; pixel_x = 11},/obj/structure/mirror{pixel_x = 28},/turf/simulated/floor/tiled/freezer,/area/space)
 "UW" = (/obj/machinery/door/airlock/command{name = "Head of Personnel"; req_access = list(57)},/obj/machinery/door/firedoor/glass,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
 "Vd" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
+"Ve" = (/obj/item/extraction_pack,/turf/simulated/floor/tiled,/area/space)
 "Vg" = (/obj/structure/cable{icon_state = "2-8"},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
 "Vp" = (/obj/machinery/light/small{dir = 1},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "Vw" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/table/standard,/obj/structure/window/reinforced{dir = 1},/obj/structure/flora/pottedplant/fern,/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
@@ -460,28 +586,36 @@
 "VF" = (/obj/effect/floor_decal/corner/red/border{dir = 8},/turf/simulated/floor/tiled/techmaint,/area/space)
 "VW" = (/obj/machinery/light{dir = 8},/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled,/area/space)
 "VX" = (/obj/structure/window/basic/full,/turf/simulated/floor/tiled/white,/area/space)
+"VY" = (/obj/structure/table/standard,/obj/item/weapon/surgical/circular_saw,/obj/item/weapon/surgical/scalpel{pixel_y = 12},/obj/item/weapon/surgical/hemostat,/obj/item/weapon/surgical/retractor,/obj/structure/window/reinforced{dir = 1},/obj/effect/floor_decal/corner/paleblue/full{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
 "Wd" = (/obj/structure/table/rack,/obj/item/weapon/storage/box/beanbags,/obj/item/weapon/storage/box/beanbags,/obj/item/weapon/storage/box/beanbags,/obj/item/weapon/gun/projectile/shotgun/pump{pixel_x = -3; pixel_y = 3},/obj/item/weapon/gun/projectile/shotgun/pump{pixel_x = -3; pixel_y = 3},/obj/item/weapon/gun/projectile/shotgun/pump{pixel_x = -3; pixel_y = 3},/turf/simulated/floor/tiled/steel_ridged,/area/space)
 "We" = (/obj/structure/table/standard,/obj/item/weapon/storage/belt/medical,/obj/item/weapon/storage/belt/medical,/obj/item/weapon/storage/belt/medical,/obj/effect/floor_decal/corner/paleblue{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
 "Wi" = (/obj/machinery/power/terminal{dir = 8},/obj/structure/cable{icon_state = "0-2"},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "Wm" = (/obj/structure/cable{icon_state = "1-8"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
 "Wo" = (/obj/structure/window/reinforced,/obj/structure/toilet{dir = 4},/obj/structure/curtain/open/shower,/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/tiled,/area/space)
 "Wp" = (/obj/structure/closet/secure_closet/security,/turf/simulated/floor/tiled/techmaint,/area/space)
+"Wy" = (/obj/vehicle/train/trolley,/obj/effect/floor_decal/industrial/outline/yellow,/turf/simulated/floor/tiled,/area/space)
+"Wz" = (/obj/structure/table/standard,/obj/machinery/cell_charger,/obj/item/weapon/cell/high{charge = 100; maxcharge = 15000},/obj/effect/floor_decal/corner/purple/full{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
 "WE" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled,/area/space)
 "WN" = (/obj/structure/cable{icon_state = "1-8"},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "WQ" = (/obj/machinery/light{dir = 4},/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
 "WV" = (/obj/machinery/iv_drip,/obj/machinery/power/apc{dir = 1; name = "north bump"; pixel_y = 28},/obj/structure/cable{icon_state = "0-2"},/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "WX" = (/obj/structure/bed/chair/office/light{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
 "WY" = (/obj/structure/cable{icon_state = "1-2"},/obj/effect/floor_decal/corner/paleblue/border{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
+"Xo" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/grille,/obj/machinery/door/firedoor/border_only,/turf/simulated/floor/plating,/area/space)
 "Xq" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled/techmaint,/area/space)
 "Xs" = (/obj/structure/table/rack,/obj/item/weapon/storage/firstaid/bonemed,/obj/item/weapon/storage/firstaid/bonemed,/obj/item/weapon/storage/firstaid/bonemed,/obj/effect/floor_decal/corner/paleblue/border{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
 "XD" = (/obj/structure/bed,/turf/simulated/floor/tiled/old_cargo,/area/space)
+"XG" = (/obj/machinery/door/airlock/glass_mining{id_tag = "cargodoor"; name = "Cargo Office"; req_access = list(50)},/turf/simulated/floor/tiled,/area/space)
 "XO" = (/obj/machinery/power/smes/buildable{RCon_tag = "Substation - Command"; charge = 0},/turf/simulated/floor/plating,/area/space)
 "XS" = (/obj/structure/closet/secure_closet/captains,/turf/simulated/floor/holofloor/wood,/area/space)
+"XY" = (/obj/effect/floor_decal/industrial/warning{dir = 6},/turf/simulated/floor/tiled/techmaint,/area/space)
 "Yb" = (/obj/effect/floor_decal/corner/red/border{dir = 6},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/techmaint,/area/space)
+"Yh" = (/obj/effect/floor_decal/industrial/warning{dir = 5},/turf/simulated/floor/tiled/techmaint,/area/space)
 "Yj" = (/obj/effect/floor_decal/corner/blue{dir = 10},/obj/effect/floor_decal/corner/blue{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
 "YF" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/holofloor/wood,/area/space)
 "YG" = (/obj/effect/floor_decal/corner/blue{dir = 10},/obj/effect/floor_decal/corner/blue{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
 "YI" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 1},/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/tiled/white,/area/space)
+"YL" = (/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
 "YO" = (/obj/structure/bed/chair/comfy/brown{dir = 8},/turf/simulated/floor/holofloor/wood,/area/space)
 "YU" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled/old_cargo/gray,/area/space)
 "YW" = (/obj/machinery/alarm{dir = 4; pixel_x = -25},/obj/effect/floor_decal/corner/paleblue/border{dir = 8},/obj/structure/table/glass,/obj/machinery/reagentgrinder,/obj/item/stack/material/phoron{amount = 25},/turf/simulated/floor/tiled/white,/area/space)
@@ -491,7 +625,11 @@
 "Zk" = (/obj/structure/table/glass,/obj/machinery/door/window/brigdoor/eastright{dir = 8; name = "Head of Personnel's Desk"; req_access = list(57)},/obj/machinery/door/window/eastleft,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled,/area/space)
 "Zl" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "2-4"},/obj/effect/floor_decal/corner/paleblue{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
 "ZB" = (/obj/structure/table/standard,/obj/item/device/defib_kit/loaded,/turf/simulated/floor/tiled/white,/area/space)
+"ZF" = (/obj/structure/ladder/updown,/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/space)
 "ZK" = (/obj/machinery/door/airlock/command{name = "Colony Director's Quarters"; req_access = list(20)},/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/holofloor/wood,/area/space)
+"ZQ" = (/obj/item/extraction_pack,/obj/structure/railing/grey{dir = 1},/turf/simulated/floor/tiled,/area/space)
+"ZV" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/grille,/obj/machinery/door/firedoor/border_only,/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/plating,/area/space)
+"ZY" = (/obj/vehicle/train/engine,/obj/effect/floor_decal/industrial/outline/yellow,/turf/simulated/floor/tiled,/area/space)
 
 (1,1,1) = {"
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
@@ -579,10 +717,10 @@ FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQICFBFBgGGXpmFBOaGXquabjLznCgGXKoFBFBFBFBFBCOGXGXHyfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQgVqAXSqgGXAPpwVEGXqYlYKAwQWEGXdZwrmNdZwrdZwrGXGdBSfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQfQfQfQfQfQfQfQfQfQUtecyxdYJGfQfQfQfQfQfQfQfQfQtCXOfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababkPababESkPabqKjskPabababwQabkPESababkPabQuabfQfQfQfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabJbVdVdVdVdLCVdVdygVdVdVdVdVdwNVdVdLCVdVdVdVdTnTkkPabESabkPabfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQTlwQababcqJCESababJCabababJCcqwQabJCESababJCabcEVdVdVdLCVdoOabfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabwQabfQfQfQfQfQfQfQfQfQfQfQfQqkfQfQfQfQfQfQabcqabJCabESabwQWEfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababkPababESkPabqKjskPabababwQabkPESababkPabababfQfQfQfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabJbVdVdVdVdLCVdVdygVdVdVdVdVdwNVdVdLCVdVdVdVdoOabkPabESabkPabfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQTlwQababcqJCESababJCabababJCcqwQabJCESababJCeKQyVdVdVdLCVdoOabfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabwQabfQfQfQfQfQfQfQfQfQfQfQfQqkfQfQfQfQfQfQQucqabJCabESabwQWEfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQESJyESfQWpWpWprsWpybLFXqhICXNTegbbGXOBzGXDfQfQfQfQfQfQfQabwQabfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabwQWEfQiErzrzrzrzrzOxbUAdgBTpegTqGXSgbdsRfQGXGXGXGXGXfQTlwQabfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQTlwQabfQVFOqyZrZooetetetetetetzErdxJSgbdMjfQGXvwvwvwGXfQabwQDyfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
@@ -765,69 +903,69 @@ FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHsHFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQfQfQfQfQpqpqpqpqpqpqpqpqpqkopqpqpqpqpqpqpqpqpqfQfQfQfQfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQpqpqpqpqpqpqpqpqpqpqpqpqpqkopqpqpqpqpqpqpqpqpqpqpqpqpqfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQfQfQababGXUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkGXababfQfQfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkUkEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababGXababGXEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwGXababGXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwEwEwgxgxgxgxEwEwEwEwEwEwgxgxgxEwEwEwEwEwEwgxgxgxgxEwEwEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababGXababGXEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwGXababGXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwEwEwgxgxgxgxEwEwEwEwEwgxgxgxgxgxEwEwEwEwEwgxgxgxgxEwEwEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababBMabababEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwabababFXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwEwEwgxgxgxgxEwEwEwEwEwgxgxgxgxgxEwEwEwEwEwgxgxgxgxEwEwEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababGXabababEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwabababFXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwEwgxgxgxgxgxgxEwEwEwEwgxgxgxgxgxEwEwEwEwgxgxgxgxgxgxEwEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababKdabababEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwabababFXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwEwgxgxgxgxgxgxEwEwGXEwEwEwEwEwEwEwGXEwEwgxgxgxgxgxgxEwEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababCUababGXEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwGXababGXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwgxgxgxgxgxgxgxgxEwEwEwEwEwEwEwEwEwEwEwgxgxgxgxgxgxgxgxEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababGXababGXEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwGXababGXGXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwgxgxgxgxgxgxgxgxEwEwEwEwgxgxgxEwEwEwEwgxgxgxgxgxgxgxgxEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQGXGXGXGXGXababGXEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwGXabababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwgxgxgxgxgxgxgxgxEwEwEwgxgxgxgxgxEwEwEwgxgxgxgxgxgxgxgxEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababGXababGXEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwGXabababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwgxgxgxgxgxgxgxgxEwEwEwgxgxgxgxgxEwEwEwgxgxgxgxgxgxgxgxEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababEOababGXEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwGXabababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwgxgxgxgxgxgxgxgxEwEwgxgxgxgxgxgxgxEwEwgxgxgxgxgxgxgxgxEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababGXababGXEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwGXabababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwEwgxgxgxgxgxgxEwEwEwgxgxgxgxgxgxgxEwEwEwgxgxgxgxgxgxEwEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababGXababGXEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwGXabababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwEwgxgxgxgxgxgxEwEwEwEwgxgxgxgxgxEwEwEwEwgxgxgxgxgxgxEwEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababGXababGXEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwGXabababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababIvababGXGXGXGXGXabababGXGXGXGXGXabababGXGXGXGXGXabababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwEwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababGXababababababababababababababababababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQQwQwQwQwQwGXGXQwQwQwQwQwQwQwQwGXQwQwQwQwQwQwQwQwGXGXQwQwQwQwQwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababNzabababababababababababababababababababeKeKabababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababababababababababababababababababababeKeKabababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababGXababababababababababababababababababababNVGXababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQabababababababababababababababababababababababNVxxababababababfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQGXGXGXGXGXababGXGXGXGXGXGXGXGXGXGXGXGXGXabababfQfQfQfQfQfQfQabababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQzoGXRvabababOkGXGXmnhWoJoJoJXomnGXGXabababfQfQfQfQfQfQfQYLYLYLfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababababababGXabababababababababababGXabababfQGXGXGXGXGXfQabababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababGXzrabEGabCpGXabababababababababGXabababfQGXGXGXGXGXfQFXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababababababGXabababababababababababGXabababfQGXvwvwvwGXfQabababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababGXUMabababCTGXabababababababababGXabababfQGXvwvwvwGXfQFXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababGXGXGXGXGXGXabababababababababababGXabababfQGXvwvwvwGXfQabababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababGXjnoKgqaasKGXabababababababababGXabababfQGXvwvwvwGXfQFXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababGXababababababababababababababababGXabababfQGXvwvwvwGXfQabababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababGXGXLJkfzVGXGXabababababababababGXabababfQGXvwvwvwGXfQFXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababGXababababababababababababababababGXabababfQGXfYfYfYGXfQabababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababababababababGXabababababababababGXabababfQGXfYfYfYGXfQFXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababGXababababababababababababababababGXabababfQfQjkjkjkfQfQabababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababababababababGXabababababababababGXabababfQfQjkjkjkfQfQFXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababGXababababababababababababababababGXabababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababababababababGXabababababababababGXabababababababababYLFXFXFXFXFXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQababGXababababababababababababababababGXabababababababababababababababfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQabababababababababGXabababababababababGXabababababababababYLFXFXFXFXFXfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQababGXababababababababababababababababGXababababababababababGXGXGXGXGXfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQGXGXNzGXGXGXGXGXGXGXGXGXGXGXGXGXGXGXGXGXabababababababababGXGXGXGXGXGXfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQQuababababGXababababababababababababababababGXabababGXkSabGXkSabGXGXabababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQQuabababababababababababababababababababababababababGXkSabGXkSabGXababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFZFwFwFwFwFwFwFwfQfQZQTkabababGXababababVeabababababababababVeabGXabababGXabababVeabababababababababVefQfQFwFwFwFwFwFwFwFZFwFZFwFwFwFwFwFwFwfQfQZQTkababababababababVeabababababababababVeabababababGXabababVeabababababababababVefQfQFwFwFwFwFwFwFwFZFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababababGXababababababababababababababababGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQabababababababababababababRvababababababababababababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQGXFwGXGXGXGXababababababababababababababababGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQGXZVoJNyGXQwQwGXGXGXGXGXGXRzZVoJNyGXGXGXGXGXGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwababFwFwFwFwFwFwababFwabababFwGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQhqabKNKNfUabAqGXwGwGwGIBGXQAHVLkyZGXWzLGCtKzGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQRvabababababNmGXuMYhwGhiGXKgTFTFzaHPMRFXFXlRauabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQvGGXXGGXRCUstkGXCfXYwGdDGXAeFXFXksGXMRFXFXlRGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQRvleabjCUuOmabGXwGwGwGEvGXSDFXFXksGXnTFXFXacGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQababababMhabPTGXeWeWeWeWGXnTFXfVwEGXhvFXfVNpQlabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQkwkwababcqCeabXGabababicGXUERsQWGXGXxGLllRwXdhabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQCjCjGXGXGXGXGXGXatababNgGXVYFpbxGXKgSwFXEeRUababababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQUuabczjCGXabjsababababZYGXnebZSkGXJrRsRscjQlababababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXGXGXGXGXabababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQkwpAababxMababababababWyfQfQfQfQfQtUfQGXwXdhababababGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXababababababababababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQTvdriBAlGXyGabababababWyfQoDoDoDqEyZfQababababababababababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXababababababababababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQGXGXGXGXGXababababababWyfQoDoDoDsiyZfQababababababababababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXababababababababababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwpqpqIeeGeGeGeGeGUHababababkwfQoDoDoDqEyZfQababababababababababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXKuabxxGXGXFwGXGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwpqpqnpabababababkdababababkwfQfQfQfQfQyZfQKuabxxGXGXFwGXGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXKuuFxxGXFwFwFwGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwpqpqnpabababababkdababababkwfQoDoDoDqEyZfQKuuFxxGXFwFwFwGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXabTkabGXFwFwFwGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwpqpqnpabababababkdababababuffQoDoDoDRMyZfQabTkabGXFwFwFwGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQGXFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXabababGXFwFwFwGXababababababababababababababfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwpqpqswxexexexexeqMababababjCfQoDoDoDqEyZfQabababGXFwFwFwGXabababababababababababGXGXGXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwGXGXGXGXGXGXGXGXGXGXGXGXGXGXGXGXGXGXFwGXGXGXFwGXGXGXGXGXGXGXGXGXGXGXGXGXGXGXGXfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQGXGXGXGXGXGXGXGXGXGXmEGXfQfQfQfQfQfQfQGXFwGXGXGXFwGXGXGXGXGXGXGXGXGXGXGXGXGXGXFwFwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQDXDXDXDXDXDXDXDXDXDXDXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQiJFwFwGXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwiJfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQZFDXDXGXDXDXDXDXDXDXDXFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwGXFwFwiJfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQfQFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
-FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
+FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFZFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFZFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
 FwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFwFw
